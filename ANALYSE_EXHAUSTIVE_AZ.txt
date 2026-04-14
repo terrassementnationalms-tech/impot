@@ -1,0 +1,572 @@
+================================================================================
+ANALYSE EXHAUSTIVE DE A À Z - Terrassement National MS Inc.
+Date d'analyse : 2026-04-14 15:19
+================================================================================
+
+================================================================================
+FICHIER 1 : RELEVÉ BANCAIRE - Compte Select pour entreprise Plan B
+================================================================================
+
+Colonnes : ['Filtre', 'Date', 'Description', 'Sous-description', 'Type d’opération', 'Montant', 'Solde']
+Nombre total de transactions : 1599
+Période : 2025-03-31 à 2026-03-31
+
+--- ANNÉE 2025 ---
+  Transactions : 1294
+  Total débits : -488,025.23 $ (983 transactions)
+  Total crédits : 483,201.49 $ (311 transactions)
+  Solde début : 6,248.04 $
+  Solde fin : 1,674.30 $
+
+--- ANNÉE 2026 ---
+  Transactions : 305
+  Total débits : -176,318.85 $ (120 transactions)
+  Total crédits : 178,750.79 $ (185 transactions)
+  Solde début : 1,918.62 $
+  Solde fin : 4,106.24 $
+
+------------------------------------------------------------
+DÉTAIL COMPLET 2025 - TOUTES LES CATÉGORIES DE DÉPENSES
+------------------------------------------------------------
+
+--- DÉBITS PAR TYPE DE DESCRIPTION ---
+
+  [ACHAT PDV] : -77,481.15 $ (632 transactions)
+    → Opos Entreprises Blc     Stone                          |  17x |   -5,604.03 $
+    → Fpos Petro-Canada 30                                    |  60x |   -4,397.13 $
+    → Centre Jardin De L Aer   Quebe                          |   6x |   -3,872.33 $
+    → Opos Carriere Union Ltee Quebe                          |  14x |   -3,677.13 $
+    → Petro-Canada 30                                         |  13x |   -3,187.33 $
+    → Carriere Union Ltee      Quebe                          |  19x |   -3,078.01 $
+    → Fpos Petro-Canada 10                                    |  31x |   -2,380.68 $
+    → Equipement Val-Belair    Quebe                          |   2x |   -2,195.45 $
+    → Fpos Ultramar #24451                                    |  21x |   -1,910.02 $
+    → Carrieres Quebec Val-B   Quebe                          |   7x |   -1,685.81 $
+    → Camions International    Quebe                          |   4x |   -1,558.79 $
+    → Fpos Carriere Union Ltee Quebe                          |  14x |   -1,499.63 $
+    → Le Groupe Agritex        Levis                          |   4x |   -1,491.24 $
+    → The Home Depot #7163     Ste-F                          |   1x |   -1,263.25 $
+    → Canac (27359)            L'Anc                          |   1x |   -1,179.58 $
+    → Fpos Canac (23416)       Quebe                          |  16x |   -1,120.80 $
+    → Attache Remorque Quebe   Quebe                          |   2x |   -1,091.12 $
+    → Macpek 11                Quebe                          |   1x |     -976.08 $
+    → Petro-Canada 13                                         |   5x |     -974.76 $
+    → Fpos Couchetard #563                                    |  12x |     -919.45 $
+    → Canadian Tire #692       L'Anc                          |   2x |     -884.23 $
+    → Gestmar                  Quebe                          |   2x |     -855.75 $
+    → Fpos Canac (23418)       Quebe                          |  12x |     -851.00 $
+    → Pieces D'Autos Guill E   Quebe                          |   2x |     -795.26 $
+    → Fpos Carrieres Quebec Beaquebe                          |   5x |     -774.55 $
+    → Opos A.P.C.H.Q Region De Quebe                          |   1x |     -770.33 $
+    → Ultramar #42225                                         |   2x |     -770.03 $
+    → Convivio 8081            Quebe                          |   2x |     -754.63 $
+    → Opos Les Entreprises Js L41884                          |   4x |     -741.59 $
+    → Esso Nemours Qu                                         |   4x |     -677.23 $
+    → Boulet Depot             Quebe                          |   2x |     -647.59 $
+    → Winners/Homesense 365/039bouch                          |   1x |     -622.43 $
+    → Fpos Canac (46565)       Quebe                          |   7x |     -615.36 $
+    → Fpos Petro-Canada 13                                    |   7x |     -593.43 $
+    → Canac (46565)            Quebe                          |   1x |     -564.32 $
+    → Opos Regie Du Batiment Dumontr                          |   1x |     -536.85 $
+    → Fpos Camions Internationaquebe                          |   6x |     -520.51 $
+    → Fpos Couchetard #558                                    |  12x |     -518.69 $
+    → Couche-Tard #502         Quebe                          |   1x |     -500.55 $
+    → Petro-Canada 10                                         |   4x |     -489.07 $
+    → Fpos Canadian Tire G                                    |   3x |     -483.54 $
+    → Centre Routier St Marc   Saint                          |   1x |     -475.08 $
+    → Fpos Canac (27367)       Quebe                          |   5x |     -470.30 $
+    → Opos Amzn Mktp Ca        Www.A                          |   6x |     -461.75 $
+    → Fpos Petro-Canada 29                                    |   4x |     -461.33 $
+    → Fpos Proxi Extra St Augussaint                          |  10x |     -429.26 $
+    → Fpos Accomodation O'Delicquebe                          |   9x |     -423.21 $
+    → Super Depanneur                                         |   3x |     -412.14 $
+    → Fpos Pieces D'Autos Guillquebe                          |   5x |     -386.28 $
+    → Fpos Le Roulotte Du      Quebe                          |   8x |     -371.15 $
+    → Premier Outils Pro       Quebe                          |   1x |     -364.93 $
+    → Camions International    Levis                          |   1x |     -337.38 $
+    → Fpos Petro-Canada  3                                    |   3x |     -323.51 $
+    → Fpos Bouchees Du Che     Quebe                          |   2x |     -317.34 $
+    → Fpos Centre Jardin De L Aquebe                          |   4x |     -311.96 $
+    → Fpos Kcr Karting         Chate                          |   3x |     -311.19 $
+    → Fpos Ultramar #42225                                    |   7x |     -304.66 $
+    → Fpos A&W #5855           Quebe                          |  10x |     -299.50 $
+    → Opos Sani Bleu Inc       Levis                          |   1x |     -294.34 $
+    → Auberge Chomedey         Laval                          |   1x |     -278.00 $
+    → Fpos Esso Nemours Qu                                    |   4x |     -262.68 $
+    → Proxi Extra St                                          |   3x |     -250.00 $
+    → Shell C81359                                            |   1x |     -250.00 $
+    → Fpos Canadian Tire #342  Quebe                          |   3x |     -242.67 $
+    → Canadian Tire #405       Quebe                          |   1x |     -241.34 $
+    → Fpos Centre Routier St Masaint                          |   1x |     -237.54 $
+    → Carrieres Quebec Beaup   Quebe                          |   1x |     -237.48 $
+    → Opos Canac(Web)          418-6                          |   4x |     -233.24 $
+    → The Home Depot #7162     Quebe                          |   1x |     -224.06 $
+    → Groupe Richer Levis      Levis                          |   1x |     -214.89 $
+    → Bouchees Du Che          Quebe                          |   1x |     -204.09 $
+    → Fpos Couchetard #515                                    |   3x |     -203.85 $
+    → Ultramar # 4222                                         |   2x |     -200.00 $
+    → Fpos Nordipro Inc        Quebe                          |   5x |     -199.13 $
+    → Fpos Canac (00760)       St-Au                          |   1x |     -197.20 $
+    → Fpos Couche-Tard #50                                    |   3x |     -194.74 $
+    → Fpos Canadian Tire #692  L'Anc                          |   1x |     -189.66 $
+    → Fpos Mcdonald'S #15823   Quebe                          |   5x |     -185.80 $
+    → Fpos Carrieres Quebec Valquebe                          |   1x |     -180.95 $
+    → Ultramar #24451                                         |   2x |     -175.00 $
+    → Fpos Costco Wholesale W50quebe                          |   1x |     -160.89 $
+    → Fpos Le Groupe Agritex   Levis                          |   1x |     -160.66 $
+    → Fpos Batteries Dixon     Saint                          |   1x |     -152.43 $
+    → Fpos Casse-Croute Chez Misaint                          |   2x |     -150.25 $
+    → Fpos Canac (24661)       Levis                          |   3x |     -141.97 $
+    → Fpos Boston Pizza # 619  Quebe                          |   1x |     -136.75 $
+    → Petro-Canada  3                                         |   1x |     -134.89 $
+    → Fpos Chez Carlos Cafe    Quebe                          |   1x |     -134.86 $
+    → Keeny U-Pull St.August   St-Au                          |   1x |     -134.71 $
+    → Fpos Canac (24687)       Quebe                          |   1x |     -132.17 $
+    → Fpos Benny&Co. Limoi     Quebe                          |   3x |     -128.23 $
+    → Fpos Eko Clairbourg      Quebe                          |   1x |     -126.30 $
+    → Fpos Auberge Chomedey    Laval                          |   1x |     -123.00 $
+    → Fpos Eko 18e Rue #609    Quebe                          |   1x |     -121.67 $
+    → Fpos Cin Le Clap Lorettevquebe                          |   2x |     -121.22 $
+    → Fpos Ultramar 43280                                     |   3x |     -120.61 $
+    → Quillorama Fron          Quebe                          |   1x |     -120.00 $
+    → Fpos Shell C80010                                       |   2x |     -108.23 $
+    → Accomodation O'Delice    Quebe                          |   1x |     -103.02 $
+    → Fpos Couchetard #513                                    |   2x |     -101.74 $
+    → Fpos Esso Couche-Tar                                    |   1x |     -100.00 $
+    → Fpos Proxi Extra St                                     |   1x |     -100.00 $
+    → Couchetard #558                                         |   1x |     -100.00 $
+    → Couchetard #564                                         |   1x |     -100.00 $
+    → Fpos Couchetard #575                                    |   4x |      -97.11 $
+    → Fpos Pa Economiques Charequebe                          |   1x |      -96.47 $
+    → Fpos Magasin General Arsestone                          |   3x |      -95.61 $
+    → Fpos Ultramar #24451 Pie Quebe                          |   1x |      -94.82 $
+    → Fpos Couchetard #539                                    |   2x |      -91.37 $
+    → Canac (23416)            Quebe                          |   1x |      -90.21 $
+    → Carquest Lac St Charle   Quebe                          |   1x |      -89.67 $
+    → Fpos Roulements Harvey   Quebe                          |   1x |      -89.34 $
+    → Fpos Quillorama Fron     Quebe                          |   1x |      -88.77 $
+    → Fpos Valentine - 2219    Quebe                          |   2x |      -87.40 $
+    → Fpos Benny&Co. Charl     Quebe                          |   2x |      -87.22 $
+    → Fpos Canac (27359)       L'Anc                          |   1x |      -86.18 $
+    → Fpos Ultramar #24451     Quebe                          |   1x |      -81.94 $
+    → Opos Amazon.Ca           Amazo                          |   1x |      -81.91 $
+    → Fpos Petro-Canada 30311  Quebe                          |   1x |      -78.39 $
+    → 0260-Traction Quebec     Quebe                          |   1x |      -75.62 $
+    → Fpos Restaurant Hector   Quebe                          |   2x |      -75.38 $
+    → Fpos A&W #5628           Quebe                          |   3x |      -75.23 $
+    → Fpos Boucherie Amiral    Quebe                          |   2x |      -74.49 $
+    → Chez Louis Centre Vill   Drumm                          |   1x |      -74.41 $
+    → Cineplex #9177     Qps   Quebe                          |   1x |      -74.19 $
+    → Fpos Couche-Tard # 1                                    |   2x |      -71.71 $
+    → Fpos Pharmaprix #1844    Quebe                          |   1x |      -71.46 $
+    → Couchetard #513          Quebe                          |   1x |      -71.36 $
+    → Fpos Pizzeria Paquet     Ste-C                          |   1x |      -71.09 $
+    → Fpos Sq *Mtl Zipline     Montr                          |   1x |      -70.67 $
+    → Mcdonald'S #15823        Quebe                          |   1x |      -70.54 $
+    → Fpos Accommodation Chalouquebe                          |   3x |      -67.81 $
+    → Opos Flokon              +1581                          |   1x |      -67.73 $
+    → Fpos Pizza Salvatore Val-Quebe                          |   1x |      -66.19 $
+    → Fpos Begin Henri-Bourassaquebe                          |   1x |      -65.87 $
+    → Fpos Sqdc77007 Qc Val-Belquebe                          |   1x |      -64.30 $
+    → Fpos Gaz Bar Depanneur Neneuvi                          |   1x |      -64.17 $
+    → Fpos Les Maltcommode     Quebe                          |   1x |      -64.00 $
+    → Fpos Canadian Tire #405  Quebe                          |   1x |      -62.73 $
+    → Fpos Ph Mc Jacques Et K Rquebe                          |   1x |      -62.37 $
+    → Fpos Petro-Canada  30328 Quebe                          |   1x |      -61.77 $
+    → Fpos Esso Couche-Tard    Quebe                          |   1x |      -60.01 $
+    → Fpos Shell C03550                                       |   1x |      -60.00 $
+    → Fpos Mcdonald'S #40126   Quebe                          |   3x |      -58.83 $
+    → Ultramar 43280                                          |   1x |      -58.11 $
+    → Fpos Couchetard #598                                    |   2x |      -57.03 $
+    → Fpos La Pizz 67 St-E     Quebe                          |   1x |      -54.02 $
+    → Fpos Tim Hortons #3237   Quebe                          |   3x |      -53.75 $
+    → Couche-Tard # 1301       Donna                          |   1x |      -53.57 $
+    → Fpos Canadian Tire #101  Quebe                          |   2x |      -53.16 $
+    → Fpos Couchetard #555                                    |   1x |      -49.41 $
+    → Fpos Tim Hortons #2865   Quebe                          |   1x |      -48.56 $
+    → Fpos Couchetard #975                                    |   2x |      -48.10 $
+    → Fpos Couche-Tard Gil                                    |   1x |      -47.82 $
+    → Fpos Tim Hortons #1316   Quebe                          |   4x |      -47.70 $
+    → Fpos Tigre Geant #130    Quebe                          |   1x |      -45.97 $
+    → Fpos Fromagerie Vict     Trois                          |   1x |      -45.96 $
+    → Fpos Poulet Rouge Charlesquebe                          |   1x |      -44.24 $
+    → Fpos Petro-Canada 12                                    |   1x |      -43.85 $
+    → Mikes Bouvier            Quebe                          |   1x |      -42.49 $
+    → Fpos Sq *M Churros Mme Bamontr                          |   1x |      -42.24 $
+    → Fpos Tim Hortons #7530   Quebe                          |   2x |      -42.23 $
+    → Fpos Pieces De Machineriequebe                          |   1x |      -40.90 $
+    → Fpos Super Depanneur                                    |   1x |      -40.00 $
+    → Benny&Co. Charl          Quebe                          |   1x |      -37.69 $
+    → Fpos Harveys #2804       Quebe                          |   1x |      -36.91 $
+    → Opos Primevideo.Ca       Www.A                          |   3x |      -36.76 $
+    → Fpos Ultramar #26377                                    |   1x |      -36.24 $
+    → Fpos La Croisee Des      Quebe                          |   1x |      -35.48 $
+    → Fpos Shell C04944        Quebe                          |   1x |      -34.56 $
+    → Fpos Store               Lac S                          |   1x |      -34.21 $
+    → Fpos Alimentation Nord Suquebe                          |   1x |      -33.79 $
+    → Fpos Eko Station Grande Lquebe                          |   1x |      -33.57 $
+    → Fpos Tim Hortons #2953   Quebe                          |   2x |      -32.24 $
+    → Fpos Tim Hortons #2907   Quebe                          |   1x |      -31.69 $
+    → Fpos A&W #5731 Taniata   Levis                          |   1x |      -30.67 $
+    → Fpos Premier Outils Pro  Quebe                          |   1x |      -30.58 $
+    → Fpos Convivio 8081       Quebe                          |   1x |      -30.00 $
+    → Fpos Couchetard #571                                    |   1x |      -30.00 $
+    → Fpos Mcdonald'S #40686   Saint                          |   1x |      -29.74 $
+    → Fpos Macpek 1            Quebe                          |   1x |      -29.59 $
+    → Fpos Tim Hortons #3437   Quebe                          |   1x |      -29.56 $
+    → Fpos Mcdonald'S #6331   Qquebe                          |   1x |      -28.03 $
+    → Fpos Mcdonald'S #4676    L'Anc                          |   1x |      -28.03 $
+    → Fpos Filgo Ancienne Loretquebe                          |   1x |      -27.63 $
+    → Fpos Mcdonald'S #40632   Quebe                          |   1x |      -26.42 $
+    → Fpos Depanneur Des Cantonstone                          |   1x |      -25.97 $
+    → Carquest Ste-Foy         Quebe                          |   1x |      -25.62 $
+    → Fpos Shell C05681        Quebe                          |   1x |      -24.96 $
+    → Fpos Couchetard #511                                    |   1x |      -24.65 $
+    → Fpos Couchetard #554                                    |   1x |      -24.20 $
+    → Fpos Subway              Quebe                          |   1x |      -23.79 $
+    → Fpos Nayax Canada In                                    |   5x |      -22.00 $
+    → Fpos Tim Hortons #3273   Quebe                          |   1x |      -21.78 $
+    → Fpos Couchetard #564                                    |   1x |      -19.24 $
+    → Fpos Carquest Ste-Foy    Quebe                          |   1x |      -16.07 $
+    → Fpos Tim Hortons #2331   Quebe                          |   1x |      -15.26 $
+    → Fpos Couchetard #563     Quebe                          |   1x |      -14.74 $
+    → Fpos Mcdonald'S #29181   Saint                          |   1x |      -13.66 $
+    → Fpos Depanneur Harnois Popont-                          |   1x |      -13.28 $
+    → Kcr Karting              Chate                          |   1x |      -12.83 $
+    → Fpos Accomodation Clairboquebe                          |   1x |      -12.15 $
+    → Opos Amazon              +1888                          |   1x |      -11.49 $
+    → Fpos Kenny U-Pull        Drumm                          |   1x |      -10.01 $
+    → Fpos Keeny U-Pull St.August-Au                          |   1x |      -10.01 $
+    → Fpos Tim Hortons #5770   Levis                          |   1x |       -9.46 $
+    → Fpos Materiaux Lavoie Inclevis                          |   1x |       -9.18 $
+    → Fpos Couche-Tard #55                                    |   1x |       -8.63 $
+    → Fpos Iga Des Sources Boisboisc                          |   1x |       -8.04 $
+    → Fpos Air-Serv A Ps609226 St-Au                          |   1x |       -2.50 $
+
+  [ASSURANCE] : -16,251.16 $ (18 transactions)
+    → Compagnie D Assurance                                   |  18x |  -16,251.16 $
+
+  [CHQ CLIENTS] : -172.13 $ (1 transactions)
+    → D+H                                                     |   1x |     -172.13 $
+
+  [CMPTE CLIENT] : -1,297.97 $ (13 transactions)
+    → Intuit Canada Ulc                                       |  13x |   -1,297.97 $
+
+  [FRAIS DECOUV.] : -66.97 $ (13 transactions)
+
+  [FRAIS GEST.] : -1,013.75 $ (51 transactions)
+    → Frais Virement Interac                                  |  22x |      -22.00 $
+
+  [LOC/CR-BAIL] : -53,485.18 $ (28 transactions)
+    → Payment Mhccl                                           |  19x |  -37,589.74 $
+    → Tfg Financial Corporation                               |   9x |  -15,895.44 $
+
+  [NOTE DEBIT] : -282,261.91 $ (152 transactions)
+    → Virement Interac Grat.                                  | 127x | -213,822.79 $
+    → Virement Interac                                        |  22x |  -59,439.12 $
+    → Autre Rajustement                                       |   1x |   -5,000.00 $
+    → Autre                                                   |   2x |   -4,000.00 $
+
+  [PAIEMENT FACTURE] : -6,658.94 $ (12 transactions)
+    → Bm-Telus Mobility/Mobilite 34509855                     |   1x |   -1,281.88 $
+    → Bm-Telus Mobility/Mobilite 40538574                     |   1x |   -1,249.68 $
+    → Bm-Telus Mobility/Mobilite 30986098                     |   1x |   -1,245.66 $
+    → Bm-Telus Mobility/Mobilite 86057168                     |   1x |   -1,184.74 $
+    → Bm-Telus Mobility/Mobilite 12145351                     |   1x |     -617.72 $
+    → Bm-Telus Mobility/Mobilite 39080683                     |   1x |     -601.38 $
+    → Bm-Telus Communications 30988381                        |   1x |     -107.83 $
+    → Bm-Telus Communications 38640850                        |   1x |     -107.83 $
+    → Bm-Telus Communications 86059491                        |   1x |     -107.83 $
+    → Bm-Telus Communications 34512076                        |   1x |      -53.38 $
+    → Bm-Telus Communications 39082066                        |   1x |      -53.38 $
+    → Bm-Telus Communications 54382366                        |   1x |      -47.63 $
+
+  [PMT DIVERS] : -20,797.11 $ (9 transactions)
+    → Arundel Capital                                         |   9x |  -20,797.11 $
+
+  [REGIME ASSUR AUTOMOB] : -1,559.96 $ (10 transactions)
+    → Saaq                                                    |  10x |   -1,559.96 $
+
+  [RETRAIT GAB] : -26,979.00 $ (44 transactions)
+
+--- CRÉDITS PAR TYPE DE DESCRIPTION ---
+
+  [ANNUL DEBIT] : 81.91 $ (1 transactions)
+    → Opos Amazon.Com Amazon.Caamazo                          |   1x |       81.91 $
+
+  [CMPTE CLIENT] : 70,539.54 $ (14 transactions)
+    → Intuit Canada Payments Inc.                             |  14x |   70,539.54 $
+
+  [DEPOT] : 16,936.91 $ (2 transactions)
+    → Bm-Dep                                                  |   1x |      436.91 $
+
+  [DEPOT GAB] : 6,626.04 $ (3 transactions)
+
+  [NOTE CREDIT] : 351,305.05 $ (244 transactions)
+    → Virement Interac Grat.                                  | 238x |  338,003.05 $
+    → Retour Virement Interac                                 |   6x |   13,302.00 $
+
+  [PMT DIVERS] : 35,423.47 $ (41 transactions)
+    → Flokon                                                  |  41x |   35,423.47 $
+
+  [RETOUR PDV] : 2,288.57 $ (6 transactions)
+    → Pieces D'Autos Guill E   Quebe                          |   3x |      962.31 $
+    → Centre Jardin De L Aer   Quebe                          |   1x |      724.34 $
+    → Macpek 11                Quebe                          |   1x |      595.31 $
+    → Opos Amzn Mktp Ca        Www.A                          |   1x |        6.61 $
+
+------------------------------------------------------------
+VIREMENTS INTERAC SORTANTS 2025 - DÉTAIL PAR BÉNÉFICIAIRE
+------------------------------------------------------------
+  Virement Interac Grat.                                  | 127x | -213,822.79 $
+  Virement Interac                                        |  22x |  -59,439.12 $
+  Autre Rajustement                                       |   1x |   -5,000.00 $
+  Autre                                                   |   2x |   -4,000.00 $
+
+  TOTAL VIREMENTS SORTANTS : -282,261.91 $ (152 transactions)
+
+------------------------------------------------------------
+VIREMENTS INTERAC ENTRANTS 2025 - DÉTAIL PAR EXPÉDITEUR
+------------------------------------------------------------
+  Virement Interac Grat.                                  | 238x |  338,003.05 $
+  Retour Virement Interac                                 |   6x |   13,302.00 $
+
+  TOTAL VIREMENTS ENTRANTS : 351,305.05 $ (244 transactions)
+
+------------------------------------------------------------
+LOCATION VÉHICULES 2025 - DÉTAIL MENSUEL
+------------------------------------------------------------
+  2025-03-31 | Payment Mhccl                            |  -2,875.57 $
+  2025-04-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-04-21 | Payment Mhccl                            |    -981.56 $
+  2025-04-30 | Payment Mhccl                            |  -2,875.57 $
+  2025-05-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-05-20 | Payment Mhccl                            |    -981.56 $
+  2025-05-30 | Payment Mhccl                            |  -2,875.57 $
+  2025-06-16 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-06-20 | Payment Mhccl                            |    -981.56 $
+  2025-06-30 | Payment Mhccl                            |  -2,875.57 $
+  2025-07-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-07-21 | Payment Mhccl                            |    -981.56 $
+  2025-07-30 | Payment Mhccl                            |  -2,875.57 $
+  2025-08-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-08-20 | Payment Mhccl                            |    -981.56 $
+  2025-09-02 | Payment Mhccl                            |  -2,875.57 $
+  2025-09-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-09-22 | Payment Mhccl                            |    -981.56 $
+  2025-10-01 | Payment Mhccl                            |  -2,875.57 $
+  2025-10-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-10-20 | Payment Mhccl                            |    -981.56 $
+  2025-10-30 | Payment Mhccl                            |  -2,875.57 $
+  2025-11-17 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-11-20 | Payment Mhccl                            |    -981.56 $
+  2025-12-01 | Payment Mhccl                            |  -2,875.57 $
+  2025-12-15 | Tfg Financial Corporation                |  -1,766.16 $
+  2025-12-22 | Payment Mhccl                            |    -981.56 $
+  2025-12-30 | Payment Mhccl                            |  -2,875.57 $
+
+  TOTAL LOCATION : -53,485.18 $
+
+------------------------------------------------------------
+ASSURANCES 2025 - DÉTAIL MENSUEL
+------------------------------------------------------------
+  2025-04-01 | Compagnie D Assurance                    |  -1,652.57 $
+  2025-04-28 | Compagnie D Assurance                    |    -162.83 $
+  2025-05-01 | Compagnie D Assurance                    |  -1,652.57 $
+  2025-05-27 | Compagnie D Assurance                    |    -422.59 $
+  2025-06-02 | Compagnie D Assurance                    |  -1,652.57 $
+  2025-06-27 | Compagnie D Assurance                    |    -320.34 $
+  2025-07-02 | Compagnie D Assurance                    |  -1,544.30 $
+  2025-07-28 | Compagnie D Assurance                    |    -270.34 $
+  2025-08-01 | Compagnie D Assurance                    |  -1,444.27 $
+  2025-08-27 | Compagnie D Assurance                    |    -270.34 $
+  2025-09-02 | Compagnie D Assurance                    |  -1,444.27 $
+  2025-09-29 | Compagnie D Assurance                    |    -270.34 $
+  2025-10-01 | Compagnie D Assurance                    |  -1,444.27 $
+  2025-10-27 | Compagnie D Assurance                    |    -270.34 $
+  2025-11-03 | Compagnie D Assurance                    |  -1,444.27 $
+  2025-11-27 | Compagnie D Assurance                    |    -270.34 $
+  2025-12-01 | Compagnie D Assurance                    |  -1,444.27 $
+  2025-12-29 | Compagnie D Assurance                    |    -270.34 $
+
+  TOTAL ASSURANCES : -16,251.16 $
+
+================================================================================
+FICHIER 2 : FACTURES TERRASSEMENT (QuickBooks)
+================================================================================
+
+Nombre total de factures : 91
+Période : 2025-04-26 à 2026-03-27
+Total TTC : 512,050.71 $
+
+--- FACTURES 2025 ---
+  Nombre : 79
+  Total TTC : 436,884.46 $
+  Total HT (÷1.14975) : 379,982.14 $
+  Comptes à recevoir : 95,323.03 $
+
+--- FACTURES 2026 ---
+  Nombre : 12
+  Total TTC : 75,166.25 $
+  Total HT (÷1.14975) : 65,376.17 $
+  Comptes à recevoir : 0.00 $
+
+--- LISTE COMPLÈTE DES FACTURES 2025 ---
+  2025-04-26 | # 1174 | Céline Larouche                |   6,323.63 $ | Payé
+  2025-04-27 | # 1177 | Isabelle Et André              |   2,291.86 $ | Payé
+  2025-05-02 | # 1178 | Isabelle Et André              |   2,291.86 $ | Payé
+  2025-05-02 | # 1179 | Richard Ayotte                 |   4,300.01 $ | Payé
+  2025-05-07 | # 1180 | Sylvain Boucher                |   7,694.83 $ | Payé
+  2025-05-08 | # 1181 | Isabelle Et André              |   4,583.71 $ | Payé
+  2025-05-11 | # 1183 | Pierre Collard                 |  16,500.01 $ | Payé
+  2025-05-28 | # 1184 | Alexis Chandonnet Rochon       |   2,299.50 $ | Payé
+  2025-05-30 | # 1185 | Guillaume Tessier              |   5,607.91 $ | Payé
+  2025-05-30 | # 1186 | Jonathan Banville              |  10,324.75 $ | Payé
+  2025-06-04 | # 1187 | Melina Harrisson               |   6,898.50 $ | Payé
+  2025-06-16 | # 1188 | Les Toiture Tire-fort          |   4,599.00 $ | Payé
+  2025-06-17 | # 1189 | Richard Ayotte                 |   7,200.35 $ | Payé
+  2025-07-01 | # 1190 | Eric Bellefeuille Associer Ghi |   6,352.37 $ | IMPAYÉ: 52.37$
+  2025-07-03 | # 1191 | Eric Bellefeuille Associer Ghi |  93,920.91 $ | IMPAYÉ: 93,920.91$
+  2025-07-03 | # 1192 | Sylvain Boucher                |   5,277.35 $ | Payé
+  2025-07-09 | # 1193 | Sylvain Boucher                |       0.00 $ | Payé
+  2025-07-10 | # 1194 | Sylvain Boucher                |  11,542.24 $ | Payé
+  2025-07-17 | # 1195 | Sylvain Boucher                |  15,235.75 $ | Payé
+  2025-07-31 | # 1196 | Raphael Barsetti               |   8,412.26 $ | Payé
+  2025-08-03 | # 1197 | Sylvain Pelletier              |  11,096.61 $ | Payé
+  2025-08-09 | # 1198 | Sylvain Pelletier              |   4,438.66 $ | Payé
+  2025-08-11 | # 1199 | Sylvain Boucher                |   4,001.28 $ | Payé
+  2025-08-12 | # 1200 | Sylvain Pelletier              |   4,438.66 $ | Payé
+  2025-08-13 | # 1201 | Julie Thibault                 |  20,793.64 $ | Payé
+  2025-08-21 | # 1225 | Léo-Paul Laneville             |     244.32 $ | Payé
+  2025-08-21 | # 1220 | Jean-Yves Fortin               |     244.32 $ | Payé
+  2025-08-21 | # 1219 | Gratien Gaudreault             |     261.57 $ | Payé
+  2025-08-21 | # 1215 | Emmanuel Veilleux              |     186.83 $ | Payé
+  2025-08-21 | # 1214 | Denis Marcoux (Paule Saillant) |     172.46 $ | Payé
+  2025-08-21 | # 1223 | Julie Lauzon                   |     206.96 $ | Payé
+  2025-08-21 | # 1212 | Cynthia Grimard                |     244.32 $ | Payé
+  2025-08-21 | # 1211 | Christian Leclerc              |     186.83 $ | Payé
+  2025-08-21 | # 1209 | Brian Richer & Caroline Gingra |     254.09 $ | Payé
+  2025-08-21 | # 1202 | Sylvain Pelletier              |   2,219.31 $ | Payé
+  2025-08-21 | # 1213 | Claude Duffour                 |     244.32 $ | Payé
+  2025-08-23 | # 1203 | Yohan Tremblay                 |     224.20 $ | Payé
+  2025-08-27 | # 1227 | Fi-toit Thierry Auclair-Roy    |  31,941.84 $ | Payé
+  2025-08-31 | # 1255 | Pierre-Olivier Soucy           |     261.57 $ | Payé
+  2025-08-31 | # 1268 | Kayven Vinet                   |     244.33 $ | Payé
+  2025-08-31 | # 1266 | Audrey Bégin                   |     488.64 $ | Payé
+  2025-08-31 | # 1265 | Stéphane Raymond               |     273.07 $ | Payé
+  2025-08-31 | # 1264 | Vanessa Dallaire               |     224.20 $ | Payé
+  2025-08-31 | # 1261 | Tony Bouchard                  |     235.70 $ | Payé
+  2025-08-31 | # 1259 | Steve Mc Kinnon                |     244.33 $ | Payé
+  2025-08-31 | # 1254 | Pierre Lavoie                  |     244.33 $ | Payé
+  2025-08-31 | # 1235 | Julie St-Hilaire               |     244.33 $ | Payé
+  2025-08-31 | # 1251 | Patrick Bélanger               |     298.94 $ | Payé
+  2025-08-31 | # 1249 | Nathalie Bouchard              |     244.33 $ | Payé
+  2025-08-31 | # 1245 | Mylène Deschênes               |       0.00 $ | Payé
+  2025-08-31 | # 1243 | Mélanie Alaire                 |     373.67 $ | Payé
+  2025-08-31 | # 1241 | Marylène Deschenes/ Etienne Ro |     488.64 $ | Payé
+  2025-08-31 | # 1252 | Philippe Dubé                  |     255.82 $ | Payé
+  2025-08-31 | # 1233 | Isabelle Côté                  |     186.84 $ | Payé
+  2025-09-01 | # 1274 | Kevin brochu                   |     229.95 $ | Payé
+  2025-09-03 | # 1298 | Jonathan Houle                 |     244.33 $ | Payé
+  2025-09-03 | # 1293 | Jonathan Banville              |     186.84 $ | Payé
+  2025-09-03 | # 1290 | Stephane Villeneuve            |     244.33 $ | Payé
+  2025-09-03 | # 1299 | Thomas Faretti                 |     186.84 $ | Payé
+  2025-09-03 | # 1283 | Philippe Lagacé                |     373.67 $ | Payé
+  2025-09-03 | # 1282 | Raphael Barsetti               |   3,786.13 $ | Payé
+  2025-09-03 | # 1281 | Julie Thibault                 |   4,158.75 $ | Payé
+  2025-09-03 | # 1287 | Jonathan Caouette              |     186.84 $ | Payé
+  2025-09-06 | # 1301 | Sylvain Pelletier              |     344.93 $ | Payé
+  2025-09-06 | # 1302 | Alex Lebel                     |     229.95 $ | Payé
+  2025-09-06 | # 1303 | Nicolas Cherqui                |     244.33 $ | Payé
+  2025-09-06 | # 1305 | Alex Grenier                   |     244.33 $ | Payé
+  2025-09-06 | # 1306 | Yolaine Benoît                 |     638.11 $ | Payé
+  2025-09-10 | # 1308 | Julie Thibault                 |   4,158.75 $ | Payé
+  2025-09-11 | # 1309 | Julie Thibault                 |   4,158.75 $ | Payé
+  2025-09-29 | # 1310 | Julie Thibault                 |   8,317.43 $ | Payé
+  2025-10-09 | # 1312 | Daniel buteau                  |   1,149.75 $ | IMPAYÉ: 1,149.75$
+  2025-10-18 | # 1313 | Marie-Claude Beaulé et Patric  |  22,995.61 $ | Payé
+  2025-10-20 | # 1315 | Serge Grégoire                 |   5,988.78 $ | Payé
+  2025-10-23 | # 1316 | Serge Grégoire                 |   5,988.78 $ | Payé
+  2025-10-29 | # 1318 | Marie-Claude Beaulé et Patric  |  15,330.44 $ | IMPAYÉ: 200.00$
+  2025-11-06 | # 1319 | Marie-Claude Beaulé et Patric  |  19,163.01 $ | Payé
+  2025-11-18 | # 1320 | Serge Grégoire                 |  11,805.07 $ | Payé
+  2025-12-02 | # 1321 | Marie-Claude Beaulé et Patric  |  19,163.00 $ | Payé
+
+--- FACTURES IMPAYÉES AU 31 DÉC 2025 ---
+  Nombre : 4
+  Total : 95,323.03 $
+  #1190 | Eric Bellefeuille Associer Ghi |      52.37 $
+  #1191 | Eric Bellefeuille Associer Ghi |  93,920.91 $
+  #1312 | Daniel buteau                  |   1,149.75 $
+  #1318 | Marie-Claude Beaulé et Patric  |     200.00 $
+
+--- FACTURES 2026 (HORS EXERCICE 2025) ---
+  2026-01-29 | # 1324 | Les Immeubles CTO              |   1,609.65 $
+  2026-01-29 | # 1325 | Alexandrine Barriault          |     172.46 $
+  2026-02-04 | # 1326 | Claude Duffour                 |     459.90 $
+  2026-02-26 | # 1327 | Versa Équipements inc          |  54,038.25 $
+  2026-03-11 | #1328D | Maude Lainesse                 |   7,529.57 $
+  2026-03-19 | #1329D | Isabelle Morneau-Grenier       |   1,039.29 $
+  2026-03-23 | #1330D | Tristan Lariviere              |   1,889.07 $
+  2026-03-23 | #1331D | Samuel Plamondon               |   1,663.06 $
+  2026-03-24 | #1332D | Aline Zagré                    |   2,457.42 $
+  2026-03-25 | #1333D | Gabriel Fortier                |   2,037.21 $
+  2026-03-27 | #1334D | Pascal Lachance                |   1,285.31 $
+  2026-03-27 | #1335D | Diop                           |     985.06 $
+
+--- TOP 20 CLIENTS PAR REVENUS 2025 ---
+  Eric Bellefeuille Associer Ghislain Carr |   2 factures |   100,273.28 $
+  Marie-Claude Beaulé et Patric Beaudry    |   4 factures |    76,652.06 $
+  Sylvain Boucher                          |   6 factures |    43,751.45 $
+  Julie Thibault                           |   5 factures |    41,587.32 $
+  Fi-toit Thierry Auclair-Roy              |   1 factures |    31,941.84 $
+  Serge Grégoire                           |   3 factures |    23,782.63 $
+  Sylvain Pelletier                        |   5 factures |    22,538.17 $
+  Pierre Collard                           |   1 factures |    16,500.01 $
+  Raphael Barsetti                         |   2 factures |    12,198.39 $
+  Richard Ayotte                           |   2 factures |    11,500.36 $
+  Jonathan Banville                        |   2 factures |    10,511.59 $
+  Isabelle Et André                        |   3 factures |     9,167.43 $
+  Melina Harrisson                         |   1 factures |     6,898.50 $
+  Céline Larouche                          |   1 factures |     6,323.63 $
+  Guillaume Tessier                        |   1 factures |     5,607.91 $
+  Les Toiture Tire-fort                    |   1 factures |     4,599.00 $
+  Alexis Chandonnet Rochon                 |   1 factures |     2,299.50 $
+  Daniel buteau                            |   1 factures |     1,149.75 $
+  Yolaine Benoît                           |   1 factures |       638.11 $
+  Marylène Deschenes/ Etienne Rouleau      |   1 factures |       488.64 $
+
+================================================================================
+FICHIER 3 : FLOKON (Déneigement)
+================================================================================
+
+Colonnes : ['Date de paiement', 'Contrat', 'Facture', 'Client', 'Adresse de facturation', 'Type de paiement', 'Payé (TTC)']
+Nombre total de lignes : 520
+
+Premières lignes :
+  {'Date de paiement': '24/08/2025', 'Contrat': '#00080', 'Facture': 'F2025-00016', 'Client': 'Gratien Gaudreault', 'Adresse de facturation': 'rue Échiquier', 'Type de paiement': 'Chèque', 'Payé (TTC)': np.float64(261.57)}
+  {'Date de paiement': '26/08/2025', 'Contrat': '#00049', 'Facture': 'F2025-00021', 'Client': 'Claude Duffour', 'Adresse de facturation': 'rue Charmilles', 'Type de paiement': 'Chèque', 'Payé (TTC)': np.float64(244.32)}
+  {'Date de paiement': '31/08/2025', 'Contrat': '#00254', 'Facture': 'F2025-00032', 'Client': 'Vanessa Dallaire', 'Adresse de facturation': 'rue Étrave', 'Type de paiement': 'Chèque', 'Payé (TTC)': np.float64(224.2)}
+  {'Date de paiement': '31/08/2025', 'Contrat': '#00021', 'Facture': 'F2025-00070', 'Client': 'Audrey Bégin', 'Adresse de facturation': 'rue Cariatides', 'Type de paiement': 'Chèque', 'Payé (TTC)': np.float64(488.64)}
+  {'Date de paiement': '31/08/2025', 'Contrat': '#00183', 'Facture': 'F2025-00064', 'Client': 'Nathalie Bouchard', 'Adresse de facturation': 'rue Charmilles', 'Type de paiement': 'Chèque', 'Payé (TTC)': np.float64(244.32)}
+
+  Colonne 'Payé (TTC)' : somme = 154,254.65, min = 0.02, max = 1,609.65
+
+  Colonne 'Date de paiement' : valeurs uniques = 111
+    Exemples : ['24/08/2025', '26/08/2025', '31/08/2025', '02/09/2025', '03/09/2025', '05/09/2025', '06/09/2025', '08/09/2025', '09/09/2025', '10/09/2025']
+
+  Colonne 'Facture' : valeurs uniques = 303
+    Exemples : ['F2025-00016', 'F2025-00021', 'F2025-00032', 'F2025-00070', 'F2025-00064', 'F2025-00030', 'F2025-00055', 'F2025-00080', 'F2025-00009', 'F2025-00040']
+
+================================================================================
+RÉSUMÉ FINAL - EXERCICE 2025
+================================================================================
+
+REVENUS :
+  Terrassement (QuickBooks) TTC : 436,884.46 $
+  Terrassement (QuickBooks) HT  : 379,982.14 $
+  Comptes à recevoir au 31/12   : 95,323.03 $
+
+DÉPENSES BANCAIRES 2025 :
+  Total débits : -488,025.23 $
+  Total crédits : 483,201.49 $
