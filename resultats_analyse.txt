@@ -1,0 +1,53 @@
+RÉSULTATS DE L'ANALYSE EXHAUSTIVE - 14 avril 2026
+
+=== QUICKBOOKS ===
+Total factures (avec numéro): 91 factures
+Total TTC (avr 2025 - mars 2026): 512 050,71 $
+Total HT: 445 358,30 $
+
+Factures 2025 (jan-déc): 79 factures, 436 884,46 $ TTC, 379 982,14 $ HT
+Factures 2026 (jan-mars): 12 factures, 75 166,25 $ TTC, 65 376,17 $ HT
+  - Dont vente pelle Versa: 54 038,25 $ TTC (47 000 $ HT)
+  - Dont factures déneigement (D): 18 885,99 $ TTC
+  - Dont factures terrassement: 2 242,01 $ TTC
+
+Factures impayées: 95 323,03 $
+  - Eric Bellefeuille #1191: 93 920,91 $ (créance irrécouvrable)
+  - Daniel Buteau #1312: 1 149,75 $
+  - Marie-Claude Beaulé #1318: 200,00 $
+  - Eric Bellefeuille #1190: 52,37 $
+
+=== FLOKON ===
+Total paiements: 520
+Total TTC (tous): 154 254,65 $
+Factures F2025: 518 paiements, 153 415,33 $ TTC, 133 433,64 $ HT
+Factures F2026: 2 paiements, 839,32 $ TTC
+
+Paiements reçus en 2025: 287 paiements, 92 501,50 $ TTC
+Paiements reçus en 2026: 233 paiements, 61 753,15 $ TTC
+
+=== RELEVÉ BANCAIRE ===
+Période: 31 mars 2025 au 31 mars 2026
+Crédits avr-déc 2025: 483 201,49 $
+Débits avr-déc 2025: -484 656,25 $
+Crédits jan-mars 2026: 178 750,79 $
+Débits jan-mars 2026: -176 318,85 $
+Solde au 31 déc 2025: 1 674,30 $
+Solde au 31 mars 2026: 4 106,24 $
+
+=== QUESTION CRITIQUE: EXERCICE FISCAL ===
+Le fichier QuickBooks couvre "1 avril 2025 - 31 mars 2026"
+Le relevé bancaire couvre "31 mars 2025 - 31 mars 2026"
+Les sessions précédentes utilisent l'exercice "avr 2025 - mars 2026"
+MAIS INFOS_CLES dit "fin d'exercice 31 décembre"
+ImpôtExpert T2 2025 = exercice jan-déc 2025
+
+IMPACT: Si exercice = jan-déc 2025:
+  - Revenus QB: 436 884 $ TTC (379 982 $ HT) au lieu de 512 051 $
+  - Revenus Flokon: 92 502 $ TTC (80 454 $ HT) au lieu de 153 415 $
+  - Vente pelle: EXCLUE (février 2026)
+  - Dépenses jan-mars 2026: EXCLUES
+
+Si exercice = avr 2025 - mars 2026:
+  - Utiliser les chiffres du DOCUMENT_MAITRE tel quel
+  - Revenus nets: 536 827 $ HT

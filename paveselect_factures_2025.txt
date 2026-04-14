@@ -1,0 +1,175 @@
+FACTURES PAVÉ SELECT 2025 - EXTRAITES DES PDF GMAIL
+====================================================
+
+Courriel du 2025-05-02 (facture.pdf) - ID: 199a1ac3f1d8c8dc
+  Page 1: Crédit #13098 du 06/06/2025 - Total: -782,92 $ (retour de palettes/matériaux)
+  Page 2: Crédit #14100 du 11/08/2025 - Total: -123,68 $ (retour de palettes/matériaux)
+  Page 3: Facture #13010 du 31/05/2025 - Cmd 2808 - Pieds de pelouse + Palette Boulet
+           Sous-total: 2 498,00 $ + Transport: 100,00 $ = 2 987,05 $ TTC
+  Page 4: Facture #13011 du 31/05/2025 - Cmd 2801 - Dalle Proma + Palette Rinox
+           Sous-total: 2 222,99 $ = 2 555,88 $ TTC
+  Page 5: Facture #13128 du 07/06/2025 - Cmd 2826 - Dalle Proma + Sac de sable + Palette Rinox
+           Sous-total: 588,84 $ = 677,02 $ TTC
+
+Ce PDF contient les factures de mai-juin 2025 + 2 crédits.
+
+Suite du courriel du 2025-05-02 (facture.pdf) - pages 6-11:
+  Page 6: Facture #13255 du 14/06/2025 - Cmd 2859 - Pavé Aspen + Ora Marche + Palette Rinox
+           Sous-total: 3 312,74 $ + Transport: 0 $ = 3 808,83 $ TTC
+  Page 7: Facture #13456 du 27/06/2025 - Cmd 2903 - Pieds de pelouse + Palette Boulet
+           Sous-total: 4 704,00 $ + Transport: 205,00 $ = 5 644,12 $ TTC
+  Page 8: Facture #13795 du 17/07/2025 - Cmd 2942 - Pieds de pelouse + Palette + crédits retour
+           Sous-total: 718,15 $ + Transport: 195,00 $ = 1 049,90 $ TTC
+  Page 9: Facture #13842 du 21/07/2025 - Cmd 2959 - Muret Solino + Couronnement + Pavé Aspen + Palette
+           Sous-total: 2 242,36 $ + Transport: 205,00 $ = 2 813,85 $ TTC
+  Page 10: Facture #13882 du 22/07/2025 - Muret Alonso + Palette + crédits retour
+           Sous-total: 139,44 $ = 160,32 $ TTC
+
+ATTENTION: Ce PDF du courriel du 2 mai contient en fait des factures de MAI à JUILLET 2025!
+C'est un état de compte cumulatif envoyé le 2 mai mais contenant des factures futures aussi.
+Non, c'est le courriel du 2025-05-02 mais les factures vont de mai à juillet.
+CORRECTION: Le thread ID 199a1ac3f1d8c8dc correspond à la date du courriel 2025-05-02.
+Mais les factures PDF ont des dates de mai, juin et juillet 2025.
+
+FACTURES TROUVÉES DANS CE PDF (pages 1-11):
+  Crédit #13098 du 06/06/2025: -782,92 $ TTC
+  Crédit #14100 du 11/08/2025: -123,68 $ TTC
+  Facture #13010 du 31/05/2025: 2 987,05 $ TTC
+  Facture #13011 du 31/05/2025: 2 555,88 $ TTC
+  Facture #13128 du 07/06/2025: 677,02 $ TTC
+  Facture #13255 du 14/06/2025: 3 808,83 $ TTC
+  Facture #13456 du 27/06/2025: 5 644,12 $ TTC
+  Facture #13795 du 17/07/2025: 1 049,90 $ TTC
+  Facture #13842 du 21/07/2025: 2 813,85 $ TTC
+  Facture #13882 du 22/07/2025: 160,32 $ TTC
+  (page 11 à vérifier)
+
+  Page 11: Facture #14061 du 07/08/2025 - COPIE - Talus universel + Couronnement + Dalle + Palette
+           Sous-total: 2 748,52 $ = 3 160,11 $ TTC (COPIE)
+
+Maintenant je vais vérifier les autres courriels (sept, oct, nov, déc 2025) pour les factures supplémentaires.
+
+Courriel du 2025-09-01 (1990538f077a5c26/facture.pdf) - 11 pages
+  IDENTIQUE au courriel du 2025-05-02 (199a1ac3f1d8c8dc/facture.pdf)
+  Mêmes factures exactement: #13098, #14100, #13010, #13011, #13128, #13255, #13456, #13795, #13842, #13882, #14061
+  C'EST UN DOUBLON - les mêmes factures sont renvoyées chaque mois dans l'état de compte.
+
+Maintenant je vais vérifier les PDF des mois suivants pour voir s'il y a des NOUVELLES factures.
+Je vais regarder les états de compte (etat.pdf) plutôt que les factures pour voir le cumul.
+
+=== Commande #3166 du 21/10/2025 (talus) ===
+  Talus Universel 8": 552 x 4,03 $ = 2 224,56 $
+  Palette Rinox: 6 x 25 $ = 150,00 $
+  Sous-total: 2 374,56 $ | TPS: 118,73 $ | TVQ: 236,86 $ | Total: 2 730,15 $ TTC
+  >>> NOUVELLE FACTURE! N'était PAS dans les 7 factures précédentes!
+
+=== Facture MESA #15084 du 07/11/2025 ===
+  Bloc Mesa Droit Gris: 160 x 27,01 $ = 4 321,60 $
+  Bloc Mesa Coin Gris: 16 x 30,08 $ = 481,28 $
+  Palette Béton Bolduc: 5 x 35 $ = 175,00 $
+  Bloc Mesa Droit Gris: 40 x 27,01 $ = 1 080,40 $
+  Palette Béton Bolduc: 1 x 35 $ = 35,00 $
+  Sous-total: 6 093,28 $ | TPS: 304,66 $ | TVQ: 607,80 $ | Total: 7 005,74 $ TTC
+  Page 3 = COPIE de la facture #15084 déjà comptée
+
+=== Courriel du 2025-12-02 (19adfa6b4f8a75ce/facture.pdf) - 4 pages ===
+  Page 1: Crédit #15071 du 06/11/2025 - Retour palettes/matériaux
+           Total: -530,09 $ TTC (sous-total: -461,05 $)
+           ORA MARCHE 48" CAVIAR: 2 x 96,28 = 192,56 $
+           PALETTE RINOX: 1 x 25 = 25,00 $
+           crédit PALETTE RINOX: -10 x 25 = -250,00 $
+           crédit PALETTE BETON BOLDUC: -6 x 35 = -210,00 $
+           crédit COURONNEMENT PROMA XL 60m: -7 x 31,23 = -218,61 $
+  
+  Page 2: Facture #15014 du 29/10/2025 - Rouleau de membrane
+           Sous-total: 1 000,00 $ | TPS: 50,00 $ | TVQ: 99,75 $ | Total: 1 149,75 $ TTC
+           >>> NOUVELLE FACTURE! N'était PAS dans les 7 factures précédentes!
+  
+  Page 3: COPIE Facture #15084 du 07/11/2025 (MESA) - déjà comptée
+           Total: 7 005,74 $ TTC
+  
+  Page 4: Facture #15125 du 02/12/2025 - Pieds de pelouse + Palette Boulet
+           Sous-total: 560,00 $ | TPS: 28,00 $ | TVQ: 55,86 $ | Total: 643,86 $ TTC
+           >>> DÉJÀ COMPTÉE dans les 7 factures
+
+=== ÉTAT DE COMPTE DE JANVIER 2026 (19c14f7da9420441) ===
+  À vérifier pour voir s'il y a des factures de décembre 2025 manquantes.
+
+=== RÉCONCILIATION COMPLÈTE PAVÉ SELECT 2025 ===
+
+ÉTAT DE COMPTE AU 01/10/2025 (couvre mai-août 2025):
+  Cr #13098 du 06/06/2025: -782,92 $ TTC
+  Cr #14100 du 11/08/2025: -123,68 $ TTC
+  Fa #13010 du 31/05/2025: 2 987,05 $ TTC (paiement de 1 035,36 $ reçu)
+  Fa #13011 du 31/05/2025: 2 555,88 $ TTC
+  Fa #13128 du 07/06/2025: 677,02 $ TTC
+  Fa #13255 du 14/06/2025: 3 808,83 $ TTC
+  Fa #13456 du 27/06/2025: 5 644,12 $ TTC
+  Fa #13795 du 17/07/2025: 1 049,90 $ TTC
+  Fa #13842 du 21/07/2025: 2 813,85 $ TTC
+  Fa #13882 du 22/07/2025: 160,32 $ TTC
+  Fa #14061 du 07/08/2025: 3 160,11 $ TTC
+  Total dû au 01/10: 20 915,12 $
+
+ÉTAT DE COMPTE AU 02/12/2025 (couvre oct-déc 2025):
+  Cr #15071 du 06/11/2025: -530,09 $ TTC (retour palettes)
+  Fa #15014 du 29/10/2025: 1 149,75 $ TTC (rouleau membrane)
+  Fa #15084 du 07/11/2025: 7 005,74 $ TTC (MESA)
+  Fa #15125 du 02/12/2025: 643,86 $ TTC (pieds pelouse)
+  Total dû au 02/12: 8 269,26 $
+
+ÉTAT DE COMPTE AU 31/01/2026 (identique):
+  Mêmes 4 lignes, Total dû: 8 269,26 $
+
+=== COMMANDE #3166 du 21/10/2025 (Talus) ===
+  Total: 2 730,15 $ TTC
+  >>> CETTE COMMANDE N'APPARAÎT PAS dans les états de compte!
+  >>> C'est une COMMANDE (bon de commande), pas une facture.
+  >>> Elle a peut-être été facturée sous un autre numéro ou n'a pas encore été facturée.
+  >>> À VÉRIFIER: Est-ce que la commande #3166 a été convertie en facture?
+
+=== LISTE COMPLÈTE DES FACTURES PAVÉ SELECT 2025 (CORRIGÉE) ===
+
+FACTURES (positives):
+  #13010 du 31/05/2025: 2 987,05 $ TTC (sous-total: 2 598,00 $)
+  #13011 du 31/05/2025: 2 555,88 $ TTC (sous-total: 2 222,99 $)
+  #13128 du 07/06/2025: 677,02 $ TTC (sous-total: 588,84 $)
+  #13255 du 14/06/2025: 3 808,83 $ TTC (sous-total: 3 312,74 $)
+  #13456 du 27/06/2025: 5 644,12 $ TTC (sous-total: 4 909,00 $)
+  #13795 du 17/07/2025: 1 049,90 $ TTC (sous-total: 913,15 $)
+  #13842 du 21/07/2025: 2 813,85 $ TTC (sous-total: 2 447,36 $)
+  #13882 du 22/07/2025: 160,32 $ TTC (sous-total: 139,44 $)
+  #14061 du 07/08/2025: 3 160,11 $ TTC (sous-total: 2 748,52 $)
+  #15014 du 29/10/2025: 1 149,75 $ TTC (sous-total: 1 000,00 $) <<< NOUVELLE
+  #15084 du 07/11/2025: 7 005,74 $ TTC (sous-total: 6 093,28 $)
+  #15125 du 02/12/2025: 643,86 $ TTC (sous-total: 560,00 $)
+
+CRÉDITS (négatifs):
+  #13098 du 06/06/2025: -782,92 $ TTC (sous-total: -680,94 $)
+  #14100 du 11/08/2025: -123,68 $ TTC (sous-total: -107,57 $)
+  #15071 du 06/11/2025: -530,09 $ TTC (sous-total: -461,05 $)
+
+COMMANDE (à vérifier):
+  #3166 du 21/10/2025: 2 730,15 $ TTC (sous-total: 2 374,56 $) - TALUS
+
+TOTAL FACTURES: 31 656,43 $ TTC
+TOTAL CRÉDITS: -1 436,69 $ TTC
+NET FACTURES: 30 219,74 $ TTC
++ COMMANDE TALUS (si facturée): 2 730,15 $ TTC
+TOTAL POSSIBLE: 32 949,89 $ TTC
+
+ANCIEN TOTAL (7 factures): 25 040,40 $ TTC
+NOUVEAU TOTAL (12 factures - 3 crédits): 30 219,74 $ TTC
+DIFFÉRENCE: +5 179,34 $ TTC
+
+NOUVELLES FACTURES TROUVÉES:
+  - #13128 du 07/06/2025: 677,02 $ (n'était pas dans l'ancien calcul)
+  - #13255 du 14/06/2025: 3 808,83 $ (n'était pas dans l'ancien calcul)
+  - #13795 du 17/07/2025: 1 049,90 $ (n'était pas dans l'ancien calcul)
+  - #13842 du 21/07/2025: 2 813,85 $ (n'était pas dans l'ancien calcul)
+  - #15014 du 29/10/2025: 1 149,75 $ (NOUVELLE - rouleau membrane)
+  
+CRÉDITS NON COMPTÉS AVANT:
+  - #13098: -782,92 $
+  - #14100: -123,68 $
+  - #15071: -530,09 $

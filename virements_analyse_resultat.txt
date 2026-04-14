@@ -1,0 +1,450 @@
+Total virements trouvés: 192
+Déposés: 186
+Annulés: 6 (exclus)
+
+Virements 2025 (dans l'exercice): 141
+Virements 2026 (hors exercice): 45
+
+================================================================================
+VIREMENTS INTERAC 2025 - PAR CATÉGORIE
+================================================================================
+
+RETRAIT PERSONNEL / DIVIDENDE
+  Nombre de virements: 59
+  Total: 82,760.00 $
+    mer., déc. 31 2025                 100.00 $
+    mer., déc. 24 2025               1,200.00 $
+    lun., déc. 22 2025                 600.00 $
+    jeu., déc. 18 2025               2,000.00 $
+    lun., déc. 15 2025               3,000.00 $
+    mer., déc. 10 2025               1,000.00 $
+    lun., déc. 08 2025               1,000.00 $
+    jeu., déc. 04 2025               1,000.00 $
+    mer., déc. 03 2025                 100.00 $
+    mar., déc. 02 2025                 100.00 $
+    sam., nov. 29 2025               1,500.00 $
+    mer., nov. 26 2025                 300.00 $
+    mer., nov. 12 2025               3,000.00 $
+    dim., nov. 09 2025                 500.00 $
+    dim., nov. 09 2025                 700.00 $
+    dim., nov. 09 2025               1,000.00 $
+    sam., nov. 08 2025                 150.00 $
+    sam., nov. 08 2025                 100.00 $
+    sam., oct. 25 2025               5,000.00 $
+    jeu., oct. 23 2025               4,200.00 $
+    jeu., oct. 23 2025               3,000.00 $
+    lun., oct. 20 2025               1,000.00 $
+    dim., oct. 19 2025               5,000.00 $
+    sam., oct. 18 2025               4,080.00 $
+    ven., oct. 10 2025               1,000.00 $
+    sam., oct. 04 2025                 500.00 $
+    sam., oct. 04 2025                 100.00 $
+    jeu., oct. 02 2025                 500.00 $
+    jeu., oct. 02 2025               2,000.00 $
+    mer., oct. 01 2025               1,000.00 $
+    mer., oct. 01 2025               1,000.00 $
+    mar., sept. 30 2025              1,000.00 $
+    lun., sept. 29 2025              1,000.00 $
+    sam., sept. 27 2025                500.00 $
+    jeu., sept. 25 2025              2,300.00 $
+    ven., sept. 19 2025                600.00 $
+    jeu., sept. 18 2025                500.00 $
+    sam., sept. 13 2025              1,000.00 $
+    mer., sept. 10 2025                200.00 $
+    mer., sept. 10 2025                500.00 $
+    mar., sept. 09 2025              1,000.00 $
+    sam., sept. 06 2025                500.00 $
+    sam., sept. 06 2025                500.00 $
+    sam., sept. 06 2025              1,000.00 $
+    jeu., sept. 04 2025                830.00 $
+    jeu., sept. 04 2025                500.00 $
+    mer., sept. 03 2025              1,500.00 $
+    lun., août 18 2025               2,000.00 $
+    ven., août 15 2025               4,800.00 $
+    ven., août 15 2025               1,000.00 $
+    mar., août 05 2025               1,500.00 $
+    mar., juil. 29 2025                100.00 $
+    jeu., juil. 17 2025                500.00 $
+    mer., juil. 09 2025              2,000.00 $
+    ven., juin 27 2025               1,200.00 $
+    mar., juin 17 2025               1,000.00 $
+    ven., juin 06 2025               1,500.00 $
+    ven., juin 06 2025               3,000.00 $
+    mer., avr. 30 2025               5,000.00 $
+
+SOUS-TRAITANT - Angel Anderson
+  Nombre de virements: 15
+  Total: 36,230.66 $
+    jeu., nov. 20 2025               2,000.00 $
+    jeu., nov. 06 2025               2,000.00 $
+    mar., nov. 04 2025               3,000.00 $
+    mar., nov. 04 2025               3,000.00 $
+    sam., oct. 25 2025               1,000.00 $
+    ven., oct. 24 2025               9,000.00 $
+    mer., oct. 15 2025               2,000.00 $
+    jeu., sept. 04 2025              1,000.00 $
+    lun., août 11 2025               1,000.00 $
+    mar., août 05 2025               1,500.00 $
+    dim., août 03 2025               2,730.66 $
+    jeu., juil. 24 2025              3,000.00 $
+    ven., juil. 18 2025              1,000.00 $
+    lun., mai 05 2025                3,000.00 $
+    lun., mai 05 2025                1,000.00 $
+
+FOURNISSEUR - Pavé Select (Mario Richard)
+  Nombre de virements: 7
+  Total: 32,645.27 $
+    jeu., oct. 23 2025               2,730.15 $ [commande 3166]
+    sam., oct. 18 2025               5,915.12 $
+    jeu., oct. 16 2025               5,000.00 $
+    jeu., oct. 16 2025               5,000.00 $
+    mar., oct. 07 2025               5,000.00 $
+    mar., juil. 22 2025              3,000.00 $
+    mar., juin 10 2025               6,000.00 $
+
+FOURNISSEUR - Pavage St-Foy
+  Nombre de virements: 3
+  Total: 12,682.12 $
+    mer., oct. 08 2025               2,759.40 $ [2025-08-21]
+    mer., oct. 08 2025               3,830.97 $ [2025-08-05]
+    jeu., juil. 17 2025              6,091.75 $
+
+SOUS-TRAITANT - Laura Poliquin
+  Nombre de virements: 5
+  Total: 11,320.00 $
+    mer., oct. 15 2025               5,000.00 $
+    ven., sept. 12 2025              2,000.00 $
+    dim., août 03 2025                  20.00 $
+    dim., août 03 2025               2,300.00 $
+    jeu., juin 05 2025               2,000.00 $
+
+LOYER - 1163 rue du Calicot
+  Nombre de virements: 5
+  Total: 10,500.00 $
+    mar., déc. 02 2025               2,100.00 $
+    jeu., oct. 30 2025               2,100.00 $ [Loyer 1163 Rue du Calicot mois de novembre]
+    mer., oct. 01 2025               2,100.00 $ [mois de octobre loyer 1163 rue du calicot]
+    jeu., sept. 11 2025              2,100.00 $ [loyer 1163 rue du calicot mois de septembre]
+    jeu., mai 01 2025                2,100.00 $ [loyer 1163 rue du calicot mois de Mai]
+
+FOURNISSEUR - Groupe Richer
+  Nombre de virements: 4
+  Total: 10,128.41 $
+    jeu., sept. 11 2025              2,098.06 $ [W135232]
+    mar., août 19 2025                 711.21 $ [130767]
+    lun., août 18 2025               1,149.71 $ [W130421]
+    sam., août 16 2025               6,169.43 $ [numero de commande W130202]
+
+SOUS-TRAITANT - Keven Fillion (Fiftoit)
+  Nombre de virements: 4
+  Total: 9,200.00 $
+    jeu., déc. 04 2025               2,300.00 $
+    lun., nov. 03 2025               2,300.00 $
+    dim., août 03 2025               2,300.00 $
+    dim., juil. 06 2025              2,300.00 $
+
+FOURNISSEUR - Maintenance JCM (location loader)
+  Nombre de virements: 2
+  Total: 6,898.50 $
+    jeu., déc. 11 2025               3,449.25 $ [2eme partie de la facture 2047]
+    sam., mai 10 2025                3,449.25 $ [1/2 moitié des la facture 2047 location loader]
+
+FOURNISSEUR - Apollon Construction
+  Nombre de virements: 1
+  Total: 6,867.46 $
+    lun., août 25 2025               6,867.46 $ [facture numéro 143]
+
+SOUS-TRAITANT - Daniela Castro
+  Nombre de virements: 2
+  Total: 6,000.00 $
+    ven., oct. 31 2025               3,000.00 $
+    sam., oct. 25 2025               3,000.00 $
+
+PERSONNEL / DIVERS - Fatimatou
+  Nombre de virements: 1
+  Total: 5,000.00 $
+    lun., oct. 13 2025               5,000.00 $
+
+FOURNISSEUR - Excavation Sanfaçon
+  Nombre de virements: 1
+  Total: 5,000.00 $
+    mar., avr. 29 2025               5,000.00 $ [facture 1314 12 roue]
+
+FOURNISSEUR - Pascal Équipement Val-Bélair
+  Nombre de virements: 1
+  Total: 4,194.01 $
+    mar., sept. 02 2025              4,194.01 $ [État compte équipement val Bel-Air]
+
+SOUS-TRAITANT - Dave
+  Nombre de virements: 5
+  Total: 2,750.00 $
+    jeu., déc. 11 2025                 250.00 $
+    lun., oct. 06 2025                 600.00 $
+    mer., sept. 10 2025                700.00 $
+    lun., août 04 2025                 800.00 $
+    ven., juil. 18 2025                400.00 $
+
+SOUS-TRAITANT - Paul Martel
+  Nombre de virements: 1
+  Total: 2,600.00 $
+    mer., nov. 19 2025               2,600.00 $
+
+FOURNISSEUR - Flokon (logiciel)
+  Nombre de virements: 1
+  Total: 2,069.55 $
+    mar., nov. 18 2025               2,069.55 $ [FAC/2025/00055]
+
+FOURNISSEUR - Transport BLG inc
+  Nombre de virements: 1
+  Total: 2,012.07 $
+    mar., juin 17 2025               2,012.07 $ [numéro facture: #225-#245-#249]
+
+FOURNISSEUR - Savaria
+  Nombre de virements: 1
+  Total: 1,730.77 $
+    mer., juil. 23 2025              1,730.77 $
+
+FOURNISSEUR - Les Gouttières Boivin
+  Nombre de virements: 1
+  Total: 1,310.72 $
+    jeu., juin 05 2025               1,310.72 $ [Numéro de contrat 32 692 ( facture: 22391)]
+
+SOUS-TRAITANT - Jonathan Lebel
+  Nombre de virements: 3
+  Total: 1,280.00 $
+    mar., déc. 30 2025                  80.00 $
+    jeu., déc. 18 2025                 600.00 $
+    jeu., déc. 11 2025                 600.00 $
+
+FOURNISSEUR - Lebeau Gazon
+  Nombre de virements: 1
+  Total: 1,006.03 $
+    ven., oct. 17 2025               1,006.03 $ [500 balisse]
+
+FOURNISSEUR - Pneu La Lamontagne
+  Nombre de virements: 2
+  Total: 958.60 $
+    mar., déc. 02 2025                  30.00 $
+    mar., sept. 30 2025                928.60 $ [inv0164 ( facture)]
+
+SOUS-TRAITANT - Jim
+  Nombre de virements: 3
+  Total: 920.00 $
+    ven., juil. 25 2025                500.00 $
+    lun., juil. 21 2025                260.00 $
+    jeu., juin 26 2025                 160.00 $
+
+FOURNISSEUR - Impression Pixel
+  Nombre de virements: 1
+  Total: 827.82 $
+    ven., oct. 24 2025                 827.82 $ [Facture 1001-#470]
+
+DIVERS - Saharoui
+  Nombre de virements: 3
+  Total: 600.00 $
+    lun., déc. 08 2025                 100.00 $
+    jeu., juil. 03 2025                250.00 $
+    jeu., juil. 03 2025                250.00 $
+
+SOUS-TRAITANT - Bertin
+  Nombre de virements: 2
+  Total: 500.00 $
+    sam., déc. 06 2025                 250.00 $
+    sam., nov. 08 2025                 250.00 $
+
+SOUS-TRAITANT - Tony
+  Nombre de virements: 1
+  Total: 450.00 $
+    mar., août 05 2025                 450.00 $
+
+SOUS-TRAITANT - Danny
+  Nombre de virements: 1
+  Total: 300.00 $
+    jeu., juin 26 2025                 300.00 $
+
+FOURNISSEUR - Groupe Beneti
+  Nombre de virements: 1
+  Total: 224.20 $
+    mer., déc. 03 2025                 224.20 $ [Facture 3277]
+
+FOURNISSEUR - Création Noéma
+  Nombre de virements: 1
+  Total: 200.00 $
+    dim., déc. 07 2025                 200.00 $ [FACT0031]
+
+FOURNISSEUR - Remorquage STT
+  Nombre de virements: 1
+  Total: 143.72 $
+    sam., juil. 19 2025                143.72 $
+
+PERSONNEL - Sandra Savard
+  Nombre de virements: 1
+  Total: 100.00 $
+    mer., déc. 03 2025                 100.00 $
+
+================================================================================
+SOMMAIRE 2025
+================================================================================
+Total général virements 2025:       259,409.91 $
+  Retraits personnels/dividendes:    87,860.00 $
+  Fournisseurs:                      88,899.25 $
+  Sous-traitants:                    71,550.66 $
+  Loyer:                             10,500.00 $
+  Divers:                               600.00 $
+
+DÉPENSES D'ENTREPRISE (fournisseurs + sous-traitants + loyer + divers):
+  Total:   171,549.91 $
+
+================================================================================
+VIREMENTS INTERAC 2026 (jan-avr, HORS EXERCICE 2025)
+================================================================================
+  RETRAIT PERSONNEL / DIVIDENDE: 62,800.00 $ (30 virements)
+  FOURNISSEUR - Les Entreprises Pur: 9,766.06 $ (4 virements)
+  LOYER - 1163 rue du Calicot: 8,400.00 $ (4 virements)
+  FOURNISSEUR - Pavé Select (Mario Richard): 8,269.26 $ (1 virements)
+  SOUS-TRAITANT - Angel Anderson: 5,600.00 $ (1 virements)
+  SOUS-TRAITANT - Keven Fillion (Fiftoit): 2,300.00 $ (1 virements)
+  DIVERS - Timuss: 300.00 $ (1 virements)
+  DIVERS - Pépé National: 200.00 $ (1 virements)
+  DIVERS - Antoine Lavoie: 100.00 $ (1 virements)
+  DIVERS - Nic: 80.00 $ (1 virements)
+  TOTAL 2026: 97,815.32 $
+
+================================================================================
+DÉTAIL DES FOURNISSEURS AVEC NOTES DE FACTURES (2025)
+================================================================================
+
+SOUS-TRAITANT - Angel Anderson - Total: 36,230.66 $ (15 virements)
+  jeu., nov. 20 2025               2,000.00 $
+  jeu., nov. 06 2025               2,000.00 $
+  mar., nov. 04 2025               3,000.00 $
+  mar., nov. 04 2025               3,000.00 $
+  sam., oct. 25 2025               1,000.00 $
+  ven., oct. 24 2025               9,000.00 $
+  mer., oct. 15 2025               2,000.00 $
+  jeu., sept. 04 2025              1,000.00 $
+  lun., août 11 2025               1,000.00 $
+  mar., août 05 2025               1,500.00 $
+  dim., août 03 2025               2,730.66 $
+  jeu., juil. 24 2025              3,000.00 $
+  ven., juil. 18 2025              1,000.00 $
+  lun., mai 05 2025                3,000.00 $
+  lun., mai 05 2025                1,000.00 $
+
+FOURNISSEUR - Pavé Select (Mario Richard) - Total: 32,645.27 $ (7 virements)
+  jeu., oct. 23 2025               2,730.15 $ >>> commande 3166
+  sam., oct. 18 2025               5,915.12 $
+  jeu., oct. 16 2025               5,000.00 $
+  jeu., oct. 16 2025               5,000.00 $
+  mar., oct. 07 2025               5,000.00 $
+  mar., juil. 22 2025              3,000.00 $
+  mar., juin 10 2025               6,000.00 $
+
+FOURNISSEUR - Pavage St-Foy - Total: 12,682.12 $ (3 virements)
+  mer., oct. 08 2025               2,759.40 $ >>> 2025-08-21
+  mer., oct. 08 2025               3,830.97 $ >>> 2025-08-05
+  jeu., juil. 17 2025              6,091.75 $
+
+SOUS-TRAITANT - Laura Poliquin - Total: 11,320.00 $ (5 virements)
+  mer., oct. 15 2025               5,000.00 $
+  ven., sept. 12 2025              2,000.00 $
+  dim., août 03 2025                  20.00 $
+  dim., août 03 2025               2,300.00 $
+  jeu., juin 05 2025               2,000.00 $
+
+LOYER - 1163 rue du Calicot - Total: 10,500.00 $ (5 virements)
+  mar., déc. 02 2025               2,100.00 $
+  jeu., oct. 30 2025               2,100.00 $ >>> Loyer 1163 Rue du Calicot mois de novembre
+  mer., oct. 01 2025               2,100.00 $ >>> mois de octobre loyer 1163 rue du calicot
+  jeu., sept. 11 2025              2,100.00 $ >>> loyer 1163 rue du calicot mois de septembre
+  jeu., mai 01 2025                2,100.00 $ >>> loyer 1163 rue du calicot mois de Mai
+
+FOURNISSEUR - Groupe Richer - Total: 10,128.41 $ (4 virements)
+  jeu., sept. 11 2025              2,098.06 $ >>> W135232
+  mar., août 19 2025                 711.21 $ >>> 130767
+  lun., août 18 2025               1,149.71 $ >>> W130421
+  sam., août 16 2025               6,169.43 $ >>> numero de commande W130202
+
+SOUS-TRAITANT - Keven Fillion (Fiftoit) - Total: 9,200.00 $ (4 virements)
+  jeu., déc. 04 2025               2,300.00 $
+  lun., nov. 03 2025               2,300.00 $
+  dim., août 03 2025               2,300.00 $
+  dim., juil. 06 2025              2,300.00 $
+
+FOURNISSEUR - Maintenance JCM (location loader) - Total: 6,898.50 $ (2 virements)
+  jeu., déc. 11 2025               3,449.25 $ >>> 2eme partie de la facture 2047
+  sam., mai 10 2025                3,449.25 $ >>> 1/2 moitié des la facture 2047 location loader
+
+FOURNISSEUR - Apollon Construction - Total: 6,867.46 $ (1 virements)
+  lun., août 25 2025               6,867.46 $ >>> facture numéro 143
+
+SOUS-TRAITANT - Daniela Castro - Total: 6,000.00 $ (2 virements)
+  ven., oct. 31 2025               3,000.00 $
+  sam., oct. 25 2025               3,000.00 $
+
+FOURNISSEUR - Excavation Sanfaçon - Total: 5,000.00 $ (1 virements)
+  mar., avr. 29 2025               5,000.00 $ >>> facture 1314 12 roue
+
+FOURNISSEUR - Pascal Équipement Val-Bélair - Total: 4,194.01 $ (1 virements)
+  mar., sept. 02 2025              4,194.01 $ >>> État compte équipement val Bel-Air
+
+SOUS-TRAITANT - Dave - Total: 2,750.00 $ (5 virements)
+  jeu., déc. 11 2025                 250.00 $
+  lun., oct. 06 2025                 600.00 $
+  mer., sept. 10 2025                700.00 $
+  lun., août 04 2025                 800.00 $
+  ven., juil. 18 2025                400.00 $
+
+SOUS-TRAITANT - Paul Martel - Total: 2,600.00 $ (1 virements)
+  mer., nov. 19 2025               2,600.00 $
+
+FOURNISSEUR - Flokon (logiciel) - Total: 2,069.55 $ (1 virements)
+  mar., nov. 18 2025               2,069.55 $ >>> FAC/2025/00055
+
+FOURNISSEUR - Transport BLG inc - Total: 2,012.07 $ (1 virements)
+  mar., juin 17 2025               2,012.07 $ >>> numéro facture: #225-#245-#249
+
+FOURNISSEUR - Savaria - Total: 1,730.77 $ (1 virements)
+  mer., juil. 23 2025              1,730.77 $
+
+FOURNISSEUR - Les Gouttières Boivin - Total: 1,310.72 $ (1 virements)
+  jeu., juin 05 2025               1,310.72 $ >>> Numéro de contrat 32 692 ( facture: 22391)
+
+SOUS-TRAITANT - Jonathan Lebel - Total: 1,280.00 $ (3 virements)
+  mar., déc. 30 2025                  80.00 $
+  jeu., déc. 18 2025                 600.00 $
+  jeu., déc. 11 2025                 600.00 $
+
+FOURNISSEUR - Lebeau Gazon - Total: 1,006.03 $ (1 virements)
+  ven., oct. 17 2025               1,006.03 $ >>> 500 balisse
+
+FOURNISSEUR - Pneu La Lamontagne - Total: 958.60 $ (2 virements)
+  mar., déc. 02 2025                  30.00 $
+  mar., sept. 30 2025                928.60 $ >>> inv0164 ( facture)
+
+SOUS-TRAITANT - Jim - Total: 920.00 $ (3 virements)
+  ven., juil. 25 2025                500.00 $
+  lun., juil. 21 2025                260.00 $
+  jeu., juin 26 2025                 160.00 $
+
+FOURNISSEUR - Impression Pixel - Total: 827.82 $ (1 virements)
+  ven., oct. 24 2025                 827.82 $ >>> Facture 1001-#470
+
+SOUS-TRAITANT - Bertin - Total: 500.00 $ (2 virements)
+  sam., déc. 06 2025                 250.00 $
+  sam., nov. 08 2025                 250.00 $
+
+SOUS-TRAITANT - Tony - Total: 450.00 $ (1 virements)
+  mar., août 05 2025                 450.00 $
+
+SOUS-TRAITANT - Danny - Total: 300.00 $ (1 virements)
+  jeu., juin 26 2025                 300.00 $
+
+FOURNISSEUR - Groupe Beneti - Total: 224.20 $ (1 virements)
+  mer., déc. 03 2025                 224.20 $ >>> Facture 3277
+
+FOURNISSEUR - Création Noéma - Total: 200.00 $ (1 virements)
+  dim., déc. 07 2025                 200.00 $ >>> FACT0031
+
+FOURNISSEUR - Remorquage STT - Total: 143.72 $ (1 virements)
+  sam., juil. 19 2025                143.72 $

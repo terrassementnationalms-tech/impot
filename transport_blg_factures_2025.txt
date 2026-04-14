@@ -1,0 +1,46 @@
+TRANSPORT BLG INC. - FACTURES TROUVÉES DANS GMAIL
+===================================================
+Adresse: 4925, rue du Golf, Québec QC G2A 4E3
+TPS: 746822352RT0001 | TVQ: 1231556733TQ0001
+Contact: Isaac Bélanger (belangerisaac@gmail.com) / Denis Bélanger
+
+=== FACTURES 2025 TROUVÉES ===
+
+1. Facture #225 du 23 février 2025
+   Description: Remplacer Hose Hydraulique au Irving de Val-Bélair sur tracteur
+   Main d'oeuvre: 125$/h x 2h = 250,00 $
+   Déplacement: 75$/h x 2h = 150,00 $
+   Sous-total: 400,00 $ | TPS: 20,00 $ | TVQ: 39,90 $ | TOTAL: 459,90 $ TTC
+   NOTE: Février 2025 = dans l'exercice jan-déc 2025
+
+2. Facture #245 du 4 mai 2025
+   Description: Réparer bearing trailer avenue Watt (28 avril 2025)
+   Main d'oeuvre: 125$/h x 3h = 375,00 $
+   Déplacement: 75$/h x 1h = 75,00 $
+   Sous-total: 450,00 $ | TPS: 22,50 $ | TVQ: 44,89 $ | TOTAL: 517,39 $ TTC
+
+3. Facture #249 du 11 mai 2025
+   Description: Aller chercher pelle/skid 6500 rue du Potager vers 751 rue des Alysses
+   Aller chercher pelle: 300,00 $
+   Aller retour MTL chercher Loader: 600,00 $
+   Sous-total: 900,00 $ | TPS: 45,00 $ | TVQ: 89,78 $ | TOTAL: 1 034,78 $ TTC
+
+=== VIREMENTS INTERAC CONFIRMÉS ===
+- 2025-03-02: Virement de 1 667,93 $ à Transport BLG inc (probablement factures antérieures)
+- 2025-06-17: Virement de 2 012,07 $ à Transport BLG inc (probablement factures 225+245+249)
+
+=== TOTAL FACTURES BLG 2025 (trouvées dans Gmail) ===
+Facture #225: 459,90 $ TTC
+Facture #245: 517,39 $ TTC
+Facture #249: 1 034,78 $ TTC
+TOTAL: 2 012,07 $ TTC (correspond exactement au virement du 17 juin!)
+TOTAL HT: 1 750,00 $
+
+=== FACTURES MANQUANTES? ===
+L'utilisateur dit qu'il manque plein de factures.
+Il y a peut-être d'autres factures BLG qui n'ont pas été envoyées par courriel.
+Le virement de 1 667,93 $ du 2 mars 2025 correspond peut-être à des factures antérieures.
+Il faudrait vérifier s'il y a d'autres factures BLG pour la période mai-décembre 2025.
+
+Transport BLG n'était PAS dans la liste des 16 fournisseurs vérifiés du dossier précédent!
+C'est un NOUVEAU fournisseur à ajouter.
