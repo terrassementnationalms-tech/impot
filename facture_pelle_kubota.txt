@@ -1,0 +1,38 @@
+FACTURE PELLE KUBOTA U-35 - Paysagement KC Inc. (Keven Fillion)
+================================================================
+
+FACTURE 2023-00
+Date: 5 septembre 2023
+
+Vendeur: PAYSAGEMENT KC INC.
+NEQ: 1169919983
+TPS: 809652233 RT 001
+TVQ: 1221306470 TQ0001
+Adresse: 927 rue Deschênes, Donnacona (QC), G3M 0H2
+Téléphone: 418-455-2633
+Email: paysagementkc.info@gmail.com
+
+Client: Terrassement National MS inc
+Adresse: 1836 rue du Zenith Quebec G3E 1L4
+
+Description: Vente pelle Kubota
+Modèle: U-35
+Numéro de série: 11298
+Plaque: V58363A
+
+Sous-total HT: 29 571,66 $
+TPS (5%): 1 478,58 $
+TVQ (9,975%): 2 949,76 $
+GRAND TOTAL TTC: 34 000,00 $
+
+NOTES IMPORTANTES:
+- La facture date de SEPTEMBRE 2023 (pas 2025!)
+- La compagnie était inactive en 2023
+- Les virements à Keven Fillion en 2025 (9 200 $) sont des paiements sur cette facture de 2023
+- La pelle a ensuite été financée (crédit-bail Cat Financial / Fiftoit)
+- Le prix total est 34 000 $ TTC, pas le montant qu'on pensait avant
+
+QUESTIONS À CLARIFIER:
+1. Si la pelle a été achetée en 2023 mais payée en 2025, quand est-ce qu'on la met en actif?
+2. Est-ce que les 9 200 $ sont le solde restant ou un acompte partiel?
+3. Le crédit-bail a commencé quand exactement?
