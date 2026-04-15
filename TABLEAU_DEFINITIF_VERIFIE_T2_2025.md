@@ -211,19 +211,18 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 |:---------:|-------------|--------:|
 | **ACTIF** | | |
 | 1001 | Encaisse (solde bancaire 31 déc 2025) | 1 988 $ |
-| 1301 | Prêt à l'actionnaire (voir section 6) | 8 837 $ |
 | 1740 | Pelle Kubota U-35 (coût 34 000) | 28 900 $ |
 | 1740 | Camion International 5600 (coût 32 500) | 27 625 $ |
-| | **Total actif** | **67 350 $** |
+| | **Total actif** | **58 513 $** |
 | **PASSIF** | | |
-| 2620 | Impôt sur le revenu à payer | 16 729 $ |
+| 2620 | Impôt sur le revenu à payer | 16 497 $ |
 | 2680 | TPS/TVQ à payer (estimé) | 11 863 $ |
-| | **Total passif** | **28 592 $** |
+| | **Total passif** | **28 360 $** |
 | **AVOIR** | | |
 | 3500 | Capital-actions | 0 $ |
-| 3849 | Bénéfices non répartis (BNR) | 38 758 $ |
-| | **Total avoir** | **38 758 $** |
-| | **Total passif + avoir** | **67 350 $** |
+| 3849 | Bénéfices non répartis (BNR) | 30 153 $ |
+| | **Total avoir** | **30 153 $** |
+| | **Total passif + avoir** | **58 513 $** |
 
 ---
 
@@ -237,10 +236,10 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 | Portion bureau à domicile (28% x 25 200 $) | -7 056 $ |
 | Avance de l'actionnaire (camion Sanfaçon payé de sa poche) | -32 367 $ |
 | **Retraits nets** | **53 837 $** |
-| Dividendes non déterminés déclarés | -45 000 $ |
-| **Solde dû par l'actionnaire** | **8 837 $** |
+| Dividendes non déterminés déclarés | -53 837 $ |
+| **Solde dû par l'actionnaire** | **0 $** |
 
-Le solde de 8 837 $ est beaucoup plus bas qu'avant grâce à l'avance de 32 367 $ que l'actionnaire a faite pour payer le camion International 5600. Ce solde doit être remboursé avant le 31 décembre 2026 pour éviter l'inclusion dans le revenu personnel.
+Le compte de l'actionnaire est à zéro. Les dividendes de 53 837 $ couvrent exactement les retraits nets. Aucun remboursement nécessaire.
 
 ---
 
@@ -281,7 +280,7 @@ Le solde de 8 837 $ est beaucoup plus bas qu'avant grâce à l'avance de 32 367 
 | Champ | Valeur |
 |-------|--------|
 | Type | Dividendes ordinaires (non déterminés) |
-| Montant | 45 000 $ |
+| Montant | 53 837 $ |
 | Feuillets à produire | T5 (fédéral) + Relevé 3 (Québec) |
 
 ---
