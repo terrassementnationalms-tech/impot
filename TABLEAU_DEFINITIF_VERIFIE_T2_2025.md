@@ -35,7 +35,7 @@ Toutes les dépenses ci-dessous proviennent du relevé bancaire Desjardins Plan 
 | 2 | Crédit-bail véhicules (Mhccl + TFG) | loc/cr-bail (28 paiements) | 9281 | 53 485 $ | **46 519 $** |
 | 3 | Matériaux/fournitures (PDV carte) | achat pdv (147 transactions) | 9110 | 29 953 $ | **26 052 $** |
 | 4 | Financement Arundel Capital | pmt divers (9 paiements) | 8710 | 20 797 $ | **18 088 $** |
-| 5 | Carburant 80% affaires | achat pdv (246 transactions) | 9281 | 17 453 $ | **15 180 $** |
+| 5 | Carburant 100% affaires | achat pdv (246 transactions) | 9281 | 21 816 $ | **18 975 $** |
 | 6 | Assurances entreprise | assurance (18 paiements) | 8690 | 16 251 $ | **14 135 $** |
 | 7 | Équipement/pièces (PDV carte) | achat pdv (34 transactions) | 9110 | 10 174 $ | **8 848 $** |
 | 8 | Bureau à domicile (28% loyer) | calcul (28% x 25 200 $) | 8911 | — | **7 056 $** |
@@ -48,7 +48,7 @@ Toutes les dépenses ci-dessous proviennent du relevé bancaire Desjardins Plan 
 | 15 | Logiciels comptables (Intuit) | cmpte client (13 transactions) | 8811 | 1 298 $ | **1 129 $** |
 | 16 | Frais bancaires + découvert | frais gest + frais decouv (64 transactions) | 8710 | 1 081 $ | **1 081 $** |
 | 17 | Chèques d'affaires (D+H) | chq clients | 8811 | 172 $ | **150 $** |
-| | **TOTAL DÉPENSES DÉDUCTIBLES** | | | | **238 267 $** |
+| | **TOTAL DÉPENSES DÉDUCTIBLES** | | | | **242 062 $** |
 
 ---
 
@@ -69,9 +69,9 @@ Les dépenses sont regroupées par code GIFI tel que requis par ImpôtExpert T2.
 | 9110 | Sous-traitance, fournisseurs, matériaux | 117 471 $ |
 | 9225 | Télécommunications | 5 792 $ |
 | 9270 | Autres dépenses | 2 600 $ |
-| 9281 | Frais de véhicules (crédit-bail + carburant + SAAQ) | 63 259 $ |
-| **9659** | **Total des dépenses (incluant créances douteuses)** | **320 001 $** |
-| **9899** | **Bénéfice net avant impôt** | **140 423 $** |
+| 9281 | Frais de véhicules (crédit-bail + carburant + SAAQ) | 67 054 $ |
+| **9659** | **Total des dépenses (incluant créances douteuses)** | **323 796 $** |
+| **9899** | **Bénéfice net avant impôt** | **136 628 $** |
 
 ---
 
@@ -81,11 +81,11 @@ Le taux combiné PME au Canada et au Québec pour les revenus admissibles à la 
 
 | Poste | Montant |
 |-------|--------:|
-| Bénéfice net avant impôt | 140 423 $ |
-| Impôt fédéral (9 % PME) | 12 638 $ |
-| Impôt Québec (3,2 % PME) | 4 494 $ |
-| **Impôt total estimé** | **17 132 $** |
-| **Bénéfice net après impôt** | **123 291 $** |
+| Bénéfice net avant impôt | 136 628 $ |
+| Impôt fédéral (9 % PME) | 12 296 $ |
+| Impôt Québec (3,2 % PME) | 4 372 $ |
+| **Impôt total estimé** | **16 669 $** |
+| **Bénéfice net après impôt** | **119 959 $** |
 
 ---
 
