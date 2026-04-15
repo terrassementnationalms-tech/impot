@@ -1,0 +1,64 @@
+====================================================================================================
+AUDIT COMPLET - ÉTAPE 1 : EXTRACTION DES DONNÉES BRUTES DES 3 FICHIERS EXCEL
+====================================================================================================
+
+====================================================================================================
+FICHIER 1 : Compte_Slect_pour_entreprise_Plan_B_1117_041226 (1).xlsx
+====================================================================================================
+Colonnes : ['Filtre', 'Date', 'Description', 'Sous-description', 'Type d’opération', 'Montant', 'Solde']
+Nombre de lignes : 1599
+Premières lignes :
+                                                                                                             Filtre        Date    Description                 Sous-description Type d’opération  Montant    Solde
+0  Filtres personnalisés (sélectionnez les dates et les montants), Date de début=2025-03-31, Date de fin=2026-03-31  2026-03-31  frais decouv.                                             Débit    -0.36  4106.24
+1                                                                                                               NaN  2026-03-31    frais gest.                                             Débit   -58.00  4106.60
+2                                                                                                               NaN  2026-03-31      achat pdv  Fpos Amir Quebec City    Quebe             Débit   -55.91  4164.60
+
+Colonnes brutes : ['Filtre', 'Date', 'Description', 'Sous-description', 'Type d’opération', 'Montant', 'Solde']
+  Col 0: 'Filtre' -> type=str, sample=['Filtres personnalisés (sélectionnez les dates et les montants), Date de début=2025-03-31, Date de fin=2026-03-31']
+  Col 1: 'Date' -> type=str, sample=['2026-03-31', '2026-03-31', '2026-03-31']
+  Col 2: 'Description' -> type=str, sample=['frais decouv.', 'frais gest.', 'achat pdv']
+  Col 3: 'Sous-description' -> type=str, sample=[' ', ' ', 'Fpos Amir Quebec City    Quebe ']
+  Col 4: 'Type d’opération' -> type=str, sample=['Débit', 'Débit', 'Débit']
+  Col 5: 'Montant' -> type=float64, sample=[-0.36, -58.0, -55.91]
+  Col 6: 'Solde' -> type=float64, sample=[4106.24, 4106.6, 4164.6]
+
+--- Analyse du relevé bancaire ---
+Colonne date trouvée : 'Date' (1599 dates valides)
+  Plage : 2025-03-31 00:00:00 à 2026-03-31 00:00:00
+Colonne numérique 'Montant': min=-24040.0, max=54038.25, sum=-2391.80, count=1599
+Colonne numérique 'Solde': min=-2352.32, max=56890.31, sum=11915116.45, count=1599
+
+====================================================================================================
+FICHIER 2 : Terrassement National MS Inc. RBQ 5755-1202-01_Liste des factures par date.xlsx
+====================================================================================================
+Colonnes : ['Liste des factures par date', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7']
+Nombre de lignes : 100
+  Col 0: 'Liste des factures par date' -> type=str, sample=['Terrassement National MS Inc. RBQ 5755-1202-01', '1 avril, 2025-31 mars, 2026', 'Date']
+  Col 1: 'Unnamed: 1' -> type=str, sample=['Type d’opération', 'Facture', 'Facture']
+  Col 2: 'Unnamed: 2' -> type=str, sample=['Nº', '1174', '1177']
+  Col 3: 'Unnamed: 3' -> type=str, sample=['Nom', 'Céline Larouche', 'Isabelle Et André']
+  Col 4: 'Unnamed: 4' -> type=str, sample=['Mémo', 'Annulé']
+  Col 5: 'Unnamed: 5' -> type=str, sample=['Échéance', '26/04/2025', '27/04/2025']
+  Col 6: 'Unnamed: 6' -> type=object, sample=['Montant', 6323.63, 2291.86]
+  Col 7: 'Unnamed: 7' -> type=object, sample=['Solde courant', 0, 0]
+Colonne date 'Liste des factures par date': 91 dates valides, plage: 2025-01-07 00:00:00 à 2026-11-03 00:00:00
+Colonne date 'Unnamed: 2': 83 dates valides, plage: 1174-01-01 00:00:00 à 1327-01-01 00:00:00
+Colonne date 'Unnamed: 5': 91 dates valides, plage: 2025-01-07 00:00:00 à 2026-11-03 00:00:00
+Colonne date 'Unnamed: 6': 92 dates valides, plage: 1970-01-01 00:00:00 à 1970-01-01 00:00:00.000512050
+Colonne date 'Unnamed: 7': 92 dates valides, plage: 1970-01-01 00:00:00 à 1970-01-01 00:00:00.000095323
+
+====================================================================================================
+FICHIER 3 : flokon (1).xlsx
+====================================================================================================
+Colonnes : ['Date de paiement', 'Contrat', 'Facture', 'Client', 'Adresse de facturation', 'Type de paiement', 'Payé (TTC)']
+Nombre de lignes : 520
+  Col 0: 'Date de paiement' -> type=str, sample=['24/08/2025', '26/08/2025', '31/08/2025']
+  Col 1: 'Contrat' -> type=str, sample=['#00080', '#00049', '#00254']
+  Col 2: 'Facture' -> type=str, sample=['F2025-00016', 'F2025-00021', 'F2025-00032']
+  Col 3: 'Client' -> type=str, sample=['Gratien Gaudreault', 'Claude Duffour', 'Vanessa Dallaire']
+  Col 4: 'Adresse de facturation' -> type=str, sample=['rue Échiquier', 'rue Charmilles', 'rue Étrave']
+  Col 5: 'Type de paiement' -> type=str, sample=['Chèque', 'Chèque', 'Chèque']
+  Col 6: 'Payé (TTC)' -> type=float64, sample=[261.57, 244.32, 224.2]
+Colonne numérique 'Payé (TTC)': min=0.02, max=1609.65, sum=154254.65, count=520
+Colonne date 'Date de paiement': 520 dates valides, plage: 2025-08-24 00:00:00 à 2026-04-09 00:00:00
+Colonne date 'Payé (TTC)': 520 dates valides, plage: 1970-01-01 00:00:00 à 1970-01-01 00:00:00.000001609

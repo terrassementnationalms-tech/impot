@@ -1,0 +1,118 @@
+====================================================================================================
+ANALYSE DÉTAILLÉE DU RELEVÉ BANCAIRE
+Période couverte par le fichier : 31 mars 2025 à 31 mars 2026
+ATTENTION : L'exercice fiscal est du 1er JANVIER au 31 DÉCEMBRE 2025
+====================================================================================================
+Colonnes originales : ['Filtre', 'Date', 'Description', 'Sous-description', 'Type d’opération', 'Montant', 'Solde']
+
+Total lignes après nettoyage : 1599
+Plage de dates : 2025-03-31 00:00:00 à 2026-03-31 00:00:00
+
+CRÉDITS (entrées d'argent) : 496 transactions
+  Total crédits : 661,952.28 $
+
+DÉBITS (sorties d'argent) : 1103 transactions
+  Total débits : -664,344.08 $
+
+====================================================================================================
+FILTRAGE POUR L'EXERCICE FISCAL 2025 (1er janvier - 31 décembre 2025)
+====================================================================================================
+
+Transactions dans l'exercice 2025 : 1294
+Transactions Q1 2026 (hors exercice T2) : 305
+
+ATTENTION : Le relevé commence le 31 mars 2025
+Transactions avril-décembre 2025 : 1289
+Transactions janvier-mars 2025 : MANQUANTES (pas dans le relevé)
+
+--- CRÉDITS 2025 ---
+Total : 483,201.49 $
+
+Crédits par type d'opération :
+  Crédit: 483,201.49 $ (311 transactions)
+
+--- DÉBITS 2025 ---
+Total : -488,025.23 $
+
+Débits par type d'opération :
+  Débit: -488,025.23 $ (983 transactions)
+
+--- DÉBITS 2025 PAR DESCRIPTION ---
+  achat pdv: -77,481.15 $ (632 transactions)
+  assurance: -16,251.16 $ (18 transactions)
+  chq clients: -172.13 $ (1 transactions)
+  cmpte client: -1,297.97 $ (13 transactions)
+  frais decouv.: -66.97 $ (13 transactions)
+  frais gest.: -1,013.75 $ (51 transactions)
+  loc/cr-bail: -53,485.18 $ (28 transactions)
+  note debit: -282,261.91 $ (152 transactions)
+  paiement facture: -6,658.94 $ (12 transactions)
+  pmt divers: -20,797.11 $ (9 transactions)
+  regime assur automob: -1,559.96 $ (10 transactions)
+  retrait gab: -26,979.00 $ (44 transactions)
+
+Solde au 31 décembre 2025 (approx) : 1674.3
+
+====================================================================================================
+ANALYSE DÉTAILLÉE DES FACTURES QUICKBOOKS (TERRASSEMENT)
+====================================================================================================
+Dimensions : (101, 8)
+
+Premières 10 lignes :
+                                                0                 1     2                  3     4           5        6              7
+0                     Liste des factures par date               NaN   NaN                NaN   NaN         NaN      NaN            NaN
+1  Terrassement National MS Inc. RBQ 5755-1202-01               NaN   NaN                NaN   NaN         NaN      NaN            NaN
+2                     1 avril, 2025-31 mars, 2026               NaN   NaN                NaN   NaN         NaN      NaN            NaN
+3                                             NaN               NaN   NaN                NaN   NaN         NaN      NaN            NaN
+4                                            Date  Type d’opération    Nº                Nom  Mémo    Échéance  Montant  Solde courant
+5                                      26/04/2025           Facture  1174    Céline Larouche   NaN  26/04/2025  6323.63              0
+6                                      27/04/2025           Facture  1177  Isabelle Et André   NaN  27/04/2025  2291.86              0
+7                                      02/05/2025           Facture  1178  Isabelle Et André   NaN  02/05/2025  2291.86              0
+8                                      02/05/2025           Facture  1179     Richard Ayotte   NaN  02/05/2025  4300.01              0
+9                                      07/05/2025           Facture  1180    Sylvain Boucher   NaN  07/05/2025  7694.83              0
+
+Recherche de la ligne d'en-tête...
+  Ligne 0: ['Liste des factures par date', nan, nan, nan, nan, nan, nan, nan]
+  Ligne 1: ['Terrassement National MS Inc. RBQ 5755-1202-01', nan, nan, nan, nan, nan, nan, nan]
+  Ligne 2: ['1 avril, 2025-31 mars, 2026', nan, nan, nan, nan, nan, nan, nan]
+  Ligne 3: [nan, nan, nan, nan, nan, nan, nan, nan]
+  Ligne 4: ['Date', 'Type d’opération', 'Nº', 'Nom', 'Mémo', 'Échéance', 'Montant', 'Solde courant']
+  Ligne 5: ['26/04/2025', 'Facture', '1174', 'Céline Larouche', nan, '26/04/2025', 6323.63, 0]
+  Ligne 6: ['27/04/2025', 'Facture', '1177', 'Isabelle Et André', nan, '27/04/2025', 2291.86, 0]
+  Ligne 7: ['02/05/2025', 'Facture', '1178', 'Isabelle Et André', nan, '02/05/2025', 2291.86, 0]
+  Ligne 8: ['02/05/2025', 'Facture', '1179', 'Richard Ayotte', nan, '02/05/2025', 4300.01, 0]
+  Ligne 9: ['07/05/2025', 'Facture', '1180', 'Sylvain Boucher', nan, '07/05/2025', 7694.83, 0]
+
+  Header ligne 4: colonnes nommées = ['Date', 'Type d’opération', 'Nº', 'Nom', 'Mémo', 'Échéance', 'Montant', 'Solde courant']
+  header=0: 1 colonnes nommées: ['Liste des factures par date']
+  header=1: 1 colonnes nommées: ['Terrassement National MS Inc. RBQ 5755-1202-01']
+  header=2: 1 colonnes nommées: ['1 avril, 2025-31 mars, 2026']
+  header=3: 0 colonnes nommées: []
+  header=4: 8 colonnes nommées: ['Date', 'Type d’opération', 'Nº', 'Nom', 'Mémo']
+  header=5: 7 colonnes nommées: ['26/04/2025', 'Facture', '1174', 'Céline Larouche', '26/04/2025.1']
+  header=6: 7 colonnes nommées: ['27/04/2025', 'Facture', '1177', 'Isabelle Et André', '27/04/2025.1']
+  header=7: 7 colonnes nommées: ['02/05/2025', 'Facture', '1178', 'Isabelle Et André', '02/05/2025.1']
+
+====================================================================================================
+ANALYSE DÉTAILLÉE FLOKON (DÉNEIGEMENT)
+====================================================================================================
+Colonnes : ['Date de paiement', 'Contrat', 'Facture', 'Client', 'Adresse de facturation', 'Type de paiement', 'Payé (TTC)']
+Total lignes : 520
+Total TTC : 154,254.65 $
+Plage de dates : 2025-08-24 00:00:00 à 2026-04-09 00:00:00
+
+Par année de facture :
+  F2025: 518 paiements, total TTC = 153,415.33 $
+  F2026: 2 paiements, total TTC = 839.32 $
+
+Par année de paiement :
+  2025: 287 paiements, total TTC = 92,501.50 $
+  2026: 233 paiements, total TTC = 61,753.15 $
+
+Flokon paiements reçus en 2025 : 287 = 92,501.50 $ TTC
+Flokon paiements reçus en 2026 : 233 = 61,753.15 $ TTC
+
+Par type de paiement :
+  Carte de crédit: 207 paiements, total = 62,152.03 $
+  Chèque: 162 paiements, total = 51,931.90 $
+  Interac: 151 paiements, total = 40,170.72 $
