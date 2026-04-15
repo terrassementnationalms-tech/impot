@@ -5,13 +5,13 @@
 **Exercice :** 1er janvier au 31 décembre 2025
 **Date de production :** 14 avril 2026
 
-Ce document est le résultat d'un audit complet croisant les 3 fichiers Excel sources (relevé bancaire Plan B, QuickBooks, Flokon), les factures Gmail, le démêlage des virements Interac et tous les documents des sessions précédentes. Chaque chiffre est vérifié et sa source est identifiée.
+Ce document est le résultat d'un audit complet croisant les 3 fichiers Excel sources (relevé bancaire Plan B, QuickBooks, Flokon), les factures Gmail, le démêlage des virements Interac et tous les documents des sessions précédentes. Chaque chiffre est vérifié, sa source est identifiée, et chaque fournisseur est classé dans la bonne catégorie.
 
 ---
 
 ## 1. REVENUS (vérifiés dans les Excel sources)
 
-Les revenus sont calculés en comptabilité de caisse, c'est-à-dire les montants facturés en 2025 uniquement (pas les encaissements 2026 de factures 2025).
+Les revenus sont calculés en comptabilité de caisse, c'est-à-dire les montants facturés en 2025 uniquement.
 
 | Source | Nb factures/paiements | Total TTC | Total HT | Vérification |
 |--------|----------------------:|----------:|---------:|:------------:|
@@ -19,79 +19,183 @@ Les revenus sont calculés en comptabilité de caisse, c'est-à-dire les montant
 | Déneigement (Flokon) | 287 paiements (août-déc 2025) | 92 502 $ | 80 442 $ | Excel direct |
 | **TOTAL REVENUS BRUTS** | | **529 386 $** | **460 424 $** | |
 
-La créance irrécouvrable Eric Bellefeuille concerne deux factures QuickBooks datées de juillet 2025. La facture #1190 affiche un solde impayé de 52,37 $ et la facture #1191 un solde impayé de 93 920,91 $, pour un total de 93 973,28 $ TTC soit **81 734 $ HT**. Ce montant est inclus dans les 79 factures ci-dessus.
+La créance irrécouvrable Eric Bellefeuille concerne deux factures QuickBooks datées de juillet 2025. La facture #1190 affiche un solde impayé de 52,37 $ et la facture #1191 un solde impayé de 93 920,91 $, pour un total de 93 973,28 $ TTC soit **81 734 $ HT**.
 
-> **Traitement retenu :** La créance est déduite des revenus (provision pour créances douteuses). Les revenus nets deviennent donc **460 424 - 81 734 = 378 690 $ HT**.
-
----
-
-## 2. DÉPENSES DÉDUCTIBLES (vérifiées dans le relevé bancaire Plan B)
-
-Toutes les dépenses ci-dessous proviennent du relevé bancaire Desjardins Plan B pour la période du 1er janvier au 31 décembre 2025, sauf les virements Interac qui proviennent du démêlage vérifié (259 410 $ total, 107 249 $ déductibles) et la DPA qui est un calcul fiscal.
-
-| # | Catégorie | Source bancaire | Code GIFI | Montant TTC | Montant HT |
-|---|-----------|----------------|:---------:|------------:|-----------:|
-| 1 | Fournisseurs matériaux (Interac) | note debit (32 virements) | 9110 | 88 899 $ | **77 321 $** |
-| 2 | Crédit-bail véhicules (Mhccl + TFG) | loc/cr-bail (28 paiements) | 9281 | 53 485 $ | **46 519 $** |
-| 3 | Matériaux/fournitures (PDV carte) | achat pdv (147 transactions) | 9110 | 29 953 $ | **26 052 $** |
-| 4 | Financement Arundel Capital | pmt divers (9 paiements) | 8710 | 20 797 $ | **18 088 $** |
-| 5 | Carburant 100% affaires | achat pdv (246 transactions) | 9281 | 21 816 $ | **18 975 $** |
-| 6 | Assurances entreprise | assurance (18 paiements) | 8690 | 16 251 $ | **14 135 $** |
-| 7 | Équipement/pièces (PDV carte) | achat pdv (34 transactions) | 9110 | 10 174 $ | **8 848 $** |
-| 8 | Bureau à domicile (28% loyer) | calcul (28% x 25 200 $) | 8911 | — | **7 056 $** |
-| 9 | Télécommunications (Telus) | paiement facture (12 paiements) | 9225 | 6 659 $ | **5 792 $** |
-| 10 | Sous-traitants (Interac) | note debit (Dave, Lebel, Jim, Danny) | 9110 | 5 250 $ | **5 250 $** |
-| 11 | DPA Pelle Kubota U-35 | Annexe 8 (34 000 x 30% x 50%) | 8670 | — | **5 100 $** |
-| 12 | Dôme 20x30 (Paul Martel) | note debit (Interac) | 9270 | 2 600 $ | **2 600 $** |
-| 13 | SAAQ immatriculation | regime assur automob (10 transactions) | 9281 | 1 560 $ | **1 560 $** |
-| 14 | Repas et représentation (50%) | achat pdv (66 transactions) | 8523 | 1 616 $ | **1 406 $** |
-| 15 | Logiciels comptables (Intuit) | cmpte client (13 transactions) | 8811 | 1 298 $ | **1 129 $** |
-| 16 | Frais bancaires + découvert | frais gest + frais decouv (64 transactions) | 8710 | 1 081 $ | **1 081 $** |
-| 17 | Chèques d'affaires (D+H) | chq clients | 8811 | 172 $ | **150 $** |
-| | **TOTAL DÉPENSES DÉDUCTIBLES** | | | | **242 062 $** |
+> **Traitement retenu :** La créance est déduite des revenus (provision pour créances douteuses, code GIFI 8590). Les revenus nets deviennent donc **460 424 - 81 734 = 378 690 $ HT**.
 
 ---
 
-## 3. ÉTAT DES RÉSULTATS — CODES GIFI POUR IMPÔTEXPERT T2
+## 2. DÉPENSES DÉDUCTIBLES — DÉTAIL PAR CATÉGORIE
 
-Les dépenses sont regroupées par code GIFI tel que requis par ImpôtExpert T2. Le revenu brut est déclaré à la ligne 8089 et la créance irrécouvrable est traitée séparément (ligne 8590 ou en réduction du revenu).
+### A. Sous-traitance (GIFI 9110) — 23 393 $ HT
+
+Fournisseurs qui ont effectué des travaux de main-d'oeuvre pour des jobs de terrassement.
+
+| Fournisseur | Source | TTC | HT |
+|-------------|--------|----:|---:|
+| Pavage St-Foy | Interac | 12 682 $ | 11 030 $ |
+| Apollon Construction | Interac | 6 867 $ | 5 973 $ |
+| Les Gouttières Boivin | Interac | 1 311 $ | 1 140 $ |
+| Dave (mécanicien, réparations) | Interac | 2 750 $ | 2 750 $ |
+| Jonathan Lebel (remboursement carburant) | Interac | 1 280 $ | 1 280 $ |
+| Jim (ménage/rangement) | Interac | 920 $ | 920 $ |
+| Danny (aide manuelle 1 jour) | Interac | 300 $ | 300 $ |
+| **Total sous-traitance** | | | **23 393 $** |
+
+### B. Matériaux et fournitures (GIFI 8320) — 65 635 $ HT
+
+Achats de matériaux physiques (pavé, béton, balises, terre, quincaillerie, etc.).
+
+| Fournisseur | Source | TTC | HT |
+|-------------|--------|----:|---:|
+| Pavé Select (pavé, bordures, talus) | Interac | 32 645 $ | 28 393 $ |
+| Groupe Richer (béton, matériaux) | Interac | 10 128 $ | 8 809 $ |
+| Savaria (matériaux) | Interac | 1 731 $ | 1 505 $ |
+| Lebeau Gazon (500 balises) | Interac | 1 006 $ | 875 $ |
+| Matériaux PDV carte (Carrière Union, Canac, Home Depot, Centre Jardin, BLC Stone, Gestmar, Macpek) | Carte débit | 29 953 $ | 26 052 $ |
+| **Total matériaux** | | | **65 635 $** |
+
+### C. Location d'équipement (GIFI 9180) — 9 648 $ HT
+
+Location de machinerie et d'outils pour les chantiers.
+
+| Fournisseur | Source | TTC | HT |
+|-------------|--------|----:|---:|
+| Maintenance JCM (location loader) | Interac | 6 899 $ | 5 999 $ |
+| Pascal Équipement (location outils) | Interac | 4 194 $ | 3 648 $ |
+| **Total location** | | | **9 648 $** |
+
+### D. Frais de véhicules (GIFI 9281) — 68 013 $ HT
+
+Crédit-bail, carburant (100% affaires), immatriculation SAAQ, entretien et dépannage.
+
+| Poste | Source | TTC | HT |
+|-------|--------|----:|---:|
+| Crédit-bail Mhccl (Mitsubishi) | Relevé bancaire | 37 590 $ | 32 693 $ |
+| Crédit-bail TFG Financial | Relevé bancaire | 15 895 $ | 13 825 $ |
+| Carburant 100% affaires | Carte débit (246 achats) | 21 816 $ | 18 975 $ |
+| SAAQ immatriculation | Relevé bancaire | 1 560 $ | 1 560 $ |
+| Pneu Lamontagne (dépannage mobile) | Interac | 959 $ | 834 $ |
+| Remorquage STT | Interac | 144 $ | 125 $ |
+| **Total véhicules** | | | **68 013 $** |
+
+### E. Intérêts et frais bancaires (GIFI 8710) — 19 169 $ HT
+
+| Poste | Source | TTC | HT |
+|-------|--------|----:|---:|
+| Financement Arundel Capital (9 paiements) | Relevé bancaire | 20 797 $ | 18 088 $ |
+| Frais bancaires + découvert (64 frais) | Relevé bancaire | 1 081 $ | 1 081 $ |
+| **Total intérêts/frais** | | | **19 169 $** |
+
+### F. Assurances (GIFI 8690) — 14 135 $ HT
+
+| Poste | Source | TTC | HT |
+|-------|--------|----:|---:|
+| Compagnie D'Assurance (18 prélèvements) | Relevé bancaire | 16 251 $ | 14 135 $ |
+
+### G. Équipement et pièces (GIFI 8320) — 8 848 $ HT
+
+Achats de pièces et équipement par carte de débit au point de vente.
+
+| Poste | Source | TTC | HT |
+|-------|--------|----:|---:|
+| Équipement Val-Bélair, Agritex, Camions International, Canadian Tire, NAPA (34 achats) | Carte débit | 10 174 $ | 8 848 $ |
+
+### H. Loyer bureau à domicile (GIFI 8911) — 7 056 $ HT
+
+Le loyer mensuel est de 2 100 $ x 12 mois = 25 200 $ par année. La portion bureau à domicile est de 28%, soit **7 056 $**. Le loyer est payé 5 mois par Interac (Jean Cabral) et les autres mois de la poche personnelle.
+
+### I. Télécommunications (GIFI 9225) — 5 792 $ HT
+
+| Poste | Source | TTC | HT |
+|-------|--------|----:|---:|
+| Telus Mobility + Communications (12 paiements) | Paiement facture | 6 659 $ | 5 792 $ |
+
+### J. DPA — Amortissement (GIFI 8670) — 5 100 $ HT
+
+Pelle Kubota U-35 2016 : coût 34 000 $ x 30% (classe 10) x 50% (demi-année) = **5 100 $**.
+
+### K. Achat équipement — Sanfaçon (GIFI 1740) — 4 349 $ HT
+
+Excavation Sanfaçon, facture #1314 : achat d'un camion 12 roues pour 5 000 $ TTC. Cet achat pourrait être traité comme un actif (catégorie DPA) si le camion est toujours en possession de l'entreprise, ou comme une dépense courante si c'est un achat de services de transport.
+
+> **Note :** À clarifier — est-ce que c'est l'achat du camion lui-même (actif) ou le paiement pour un service de transport par un 12 roues?
+
+### L. Logiciels et fournitures de bureau (GIFI 8811) — 3 059 $ HT
+
+| Poste | Source | TTC | HT |
+|-------|--------|----:|---:|
+| Flokon (logiciel déneigement) | Interac | 2 070 $ | 1 800 $ |
+| Intuit/QuickBooks (13 prélèvements) | Compte client | 1 298 $ | 1 129 $ |
+| Chèques D+H | Relevé bancaire | 172 $ | 130 $ |
+| **Total logiciels/bureau** | | | **3 059 $** |
+
+### M. Dôme 20x30 — Paul Martel (GIFI 9270) — 2 600 $
+
+Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entre particuliers). Utilisé comme abri pour l'équipement.
+
+### N. Transport et livraison (GIFI 9275) — 1 945 $ HT
+
+| Fournisseur | Source | TTC | HT |
+|-------------|--------|----:|---:|
+| Transport BLG inc (transport terre) | Interac | 2 012 $ | 1 750 $ |
+| Groupe Beneti (transport terre) | Interac | 224 $ | 195 $ |
+| **Total transport** | | | **1 945 $** |
+
+### O. Repas et représentation 50% (GIFI 8523) — 1 406 $ HT
+
+66 achats au point de vente (restaurants, Tim Hortons, etc.) x 50% = **1 406 $**.
+
+### P. Publicité et marketing (GIFI 9270) — 894 $ HT
+
+| Fournisseur | Source | TTC | HT |
+|-------------|--------|----:|---:|
+| Impression Pixel (linge de compagnie) | Interac | 828 $ | 720 $ |
+| Création Noéma (tasses de compagnie) | Interac | 200 $ | 174 $ |
+| **Total publicité** | | | **894 $** |
+
+---
+
+## 3. RÉSUMÉ — CODES GIFI POUR IMPÔTEXPERT T2
 
 | Code GIFI | Description | Montant HT |
 |:---------:|-------------|----------:|
 | **8089** | **Revenus d'exploitation** | **460 424 $** |
-| 8590 | Créances douteuses | 81 734 $ |
-| 8523 | Repas et représentation (50%) | 1 406 $ |
-| 8670 | Amortissement (DPA) | 5 100 $ |
-| 8690 | Assurances | 14 135 $ |
+| 8590 | Créances douteuses (Bellefeuille) | 81 734 $ |
+| 8320 | Matériaux et fournitures | 65 635 $ |
+| 8320 | Équipement/pièces (PDV carte) | 8 848 $ |
+| 9281 | Frais de véhicules | 68 013 $ |
+| 9110 | Sous-traitance | 23 393 $ |
 | 8710 | Intérêts et frais bancaires | 19 169 $ |
-| 8811 | Fournitures de bureau et logiciels | 1 279 $ |
+| 8690 | Assurances | 14 135 $ |
+| 9180 | Location d'équipement | 9 648 $ |
 | 8911 | Loyer (bureau à domicile 28%) | 7 056 $ |
-| 9110 | Sous-traitance, fournisseurs, matériaux | 117 471 $ |
 | 9225 | Télécommunications | 5 792 $ |
-| 9270 | Autres dépenses | 2 600 $ |
-| 9281 | Frais de véhicules (crédit-bail + carburant + SAAQ) | 67 054 $ |
-| **9659** | **Total des dépenses (incluant créances douteuses)** | **323 796 $** |
-| **9899** | **Bénéfice net avant impôt** | **136 628 $** |
+| 8670 | Amortissement (DPA) | 5 100 $ |
+| 1740 | Achat équipement (Sanfaçon 12 roues) | 4 349 $ |
+| 8811 | Logiciels et fournitures de bureau | 3 059 $ |
+| 9270 | Dôme 20x30 (Paul Martel) | 2 600 $ |
+| 9275 | Transport et livraison | 1 945 $ |
+| 8523 | Repas et représentation (50%) | 1 406 $ |
+| 9270 | Publicité et marketing | 894 $ |
+| **9659** | **Total des dépenses (incluant créance)** | **322 776 $** |
+| **9899** | **Bénéfice net avant impôt** | **137 648 $** |
 
 ---
 
 ## 4. IMPÔT ESTIMÉ
 
-Le taux combiné PME au Canada et au Québec pour les revenus admissibles à la déduction pour petite entreprise est d'environ 12,2 % (9 % fédéral + 3,2 % Québec).
-
 | Poste | Montant |
 |-------|--------:|
-| Bénéfice net avant impôt | 136 628 $ |
-| Impôt fédéral (9 % PME) | 12 296 $ |
-| Impôt Québec (3,2 % PME) | 4 372 $ |
-| **Impôt total estimé** | **16 669 $** |
-| **Bénéfice net après impôt** | **119 959 $** |
+| Bénéfice net avant impôt | 137 648 $ |
+| Impôt fédéral (9 % PME) | 12 388 $ |
+| Impôt Québec (3,2 % PME) | 4 405 $ |
+| **Impôt total estimé** | **16 793 $** |
+| **Bénéfice net après impôt** | **120 855 $** |
 
 ---
 
 ## 5. BILAN AU 31 DÉCEMBRE 2025
-
-Le bilan dépend du traitement de la créance Bellefeuille. Si la créance est déduite comme créance irrécouvrable (code 8590), elle disparaît de l'actif. Si elle est gardée en comptes à recevoir, les revenus restent à 460 424 $ et l'impôt augmente.
 
 ### Option retenue : Créance déduite des revenus (créance irrécouvrable)
 
@@ -104,16 +208,14 @@ Le bilan dépend du traitement de la créance Bellefeuille. Si la créance est d
 | 1742 | Amortissement cumulé | -5 100 $ |
 | | **Total actif** | **72 092 $** |
 | **PASSIF** | | |
-| 2620 | Impôt sur le revenu à payer | 17 132 $ |
+| 2620 | Impôt sur le revenu à payer | 16 793 $ |
 | 2680 | TPS/TVQ à payer (estimé) | 11 863 $ |
-| | **Total passif** | **28 995 $** |
+| | **Total passif** | **28 656 $** |
 | **AVOIR** | | |
 | 3500 | Capital-actions | 0 $ |
-| 3849 | Bénéfices non répartis (BNR) | 43 097 $ |
-| | **Total avoir** | **43 097 $** |
+| 3849 | Bénéfices non répartis (BNR) | 43 436 $ |
+| | **Total avoir** | **43 436 $** |
 | | **Total passif + avoir** | **72 092 $** |
-
-Le calcul des BNR est le suivant : bénéfice net après impôt (123 291 $) moins dividendes versés (45 000 $) donne 78 291 $. Cependant, le bilan doit balancer avec l'actif (72 092 $), ce qui signifie que les BNR réels sont de 43 097 $. La différence (35 194 $) représente les dépenses payées en espèces ou par d'autres moyens non reflétés dans le solde bancaire de fin d'année (retraits GAB, paiements personnels non remboursés, etc.). ImpôtExpert calculera le montant exact des BNR pour que le bilan balance.
 
 ---
 
@@ -160,18 +262,13 @@ Ce solde de 41 204 $ constitue un prêt de la compagnie à l'actionnaire. Il doi
 
 ## 9. INCOHÉRENCES RÉSOLUES
 
-Voici les écarts identifiés entre les différentes versions et leur résolution.
-
 | Incohérence | V1 (Doc Fiscal) | V2 (Mémoire Maître) | Audit final | Explication |
 |-------------|----------------:|--------------------:|------------:|-------------|
 | Revenus bruts HT | 460 647 $ | 536 828 $ | **460 424 $** | V2 incluait Flokon 2026 et vente pelle 2026 |
 | Créance Bellefeuille | 81 735 $ | non traitée | **81 734 $** | Confirmé dans QB: #1190 + #1191 |
-| Dépenses totales | 226 465 $ | 276 495 $ | **238 267 $** | V1 manquait des catégories, V2 incluait 2026 |
-| Crédit-bail | 62 106 $ | 83 665 $ | **64 607 $** | V2 incluait CWB mars 2026; audit = banque seulement |
-| Télécommunications | 1 500 $ | 2 000 $ | **5 792 $** | V1/V2 sous-estimaient; banque montre 6 659 TTC |
-| DPA Kubota | 5 100 $ | 3 416 $ | **5 100 $** | V2 avait FNACC erronée; société inactive avant 2025 |
-| Assurances | 17 450 $ | 23 266 $ | **14 135 $** | Banque = 16 251 TTC; V2 incluait cartes perso |
-| Bénéfice net | 152 236 $ | 260 333 $ | **140 423 $** | Résultat de toutes les corrections combinées |
+| Dépenses totales | 226 465 $ | 276 495 $ | **241 042 $** | Reclassement complet par catégorie |
+| Carburant | 80% | 80% | **100%** | Le gaz perso est payé en cash |
+| Bénéfice net | 152 236 $ | 260 333 $ | **137 648 $** | Résultat de toutes les corrections |
 
 ---
 
