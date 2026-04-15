@@ -12,12 +12,12 @@ Ce document contient TOUS les chiffres définitifs, réconciliés et vérifiés 
 | Champ | Information |
 |-------|-------------|
 | **Nom de la société** | Terrassement National MS Inc. |
-| **Numéro d'entreprise (NE)** | 711440624 RC0001 |
-| **Numéro d'entreprise du Québec (NEQ)** | 1172826456 |
-| **Numéro de TPS/TVH** | 71144 0624 RT0001 |
-| **Numéro de TVQ** | 1225565545 TQ0001 |
-| **Adresse du siège social** | 1163 rue du Calicot, Québec, QC, G3K 0A6 |
-| **Actionnaire unique** | Jean Cabral (100% des actions) |
+| **Numéro d'entreprise (NE)** | 727306896 RC0001 |
+| **Numéro d'entreprise du Québec (NEQ)** | 1172439961 |
+| **Numéro de TPS/TVH** | 72730 6896 RT0001 |
+| **Numéro de TVQ** | 1224432433 TQ0001 |
+| **Adresse du siège social** | 12780, Boul. de la Colline, Québec, QC, G3E 1H1 |
+| **Actionnaire unique** | Mantallah-Moustapha Savard (100% des actions) |
 | **Exercice financier** | 1er janvier au 31 décembre |
 | **Statut en 2025** | Inactive (jan-mars), Active (avr-déc) |
 
@@ -66,7 +66,7 @@ En 2025, l'actionnaire a effectué des retraits personnels et payé des dépense
 | Transaction | Montant | Explication |
 |-------------|--------:|-------------|
 | Retraits directs ("à moi") | 82 760 $ | Virements Interac personnels |
-| Loyer payé par la compagnie | 10 500 $ | Virements Interac à Jean Cabral |
+| Loyer payé par la compagnie | 10 500 $ | Virements Interac pour le loyer |
 | **Total retiré de la compagnie** | **93 260 $** | |
 | Portion bureau à domicile (28% de 25 200 $) | -7 056 $ | La compagnie doit cette portion à l'actionnaire |
 | **Retraits nets réels** | **86 204 $** | |
