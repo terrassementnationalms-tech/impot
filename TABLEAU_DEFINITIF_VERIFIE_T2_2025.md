@@ -111,15 +111,21 @@ Le loyer mensuel est de 2 100 $ x 12 mois = 25 200 $ par année. La portion bure
 |-------|--------|----:|---:|
 | Telus Mobility + Communications (12 paiements) | Paiement facture | 6 659 $ | 5 792 $ |
 
-### J. DPA — Amortissement (GIFI 8670) — 5 100 $ HT
+### J. DPA — Amortissement (GIFI 8670) — 9 975 $ HT
 
-Pelle Kubota U-35 2016 : coût 34 000 $ x 30% (classe 10) x 50% (demi-année) = **5 100 $**.
+Deux actifs amortissables en classe 10 (30% dégressif, règle de la demi-année) :
 
-### K. Achat équipement — Sanfaçon (GIFI 1740) — 4 349 $ HT
+| Actif | Coût HT | DPA 2025 |
+|-------|--------:|---------:|
+| Pelle Kubota U-35 2016 | 34 000 $ | 5 100 $ |
+| Camion International 5600 2003 (12 roues dompeur) | 32 500 $ | 4 875 $ |
+| **Total DPA** | **66 500 $** | **9 975 $** |
 
-Excavation Sanfaçon, facture #1314 : achat d'un camion 12 roues pour 5 000 $ TTC. Cet achat pourrait être traité comme un actif (catégorie DPA) si le camion est toujours en possession de l'entreprise, ou comme une dépense courante si c'est un achat de services de transport.
+### K. Achat camion — Excavation Sanfaçon (ACTIF, pas dépense courante)
 
-> **Note :** À clarifier — est-ce que c'est l'achat du camion lui-même (actif) ou le paiement pour un service de transport par un 12 roues?
+Excavation Sanfaçon, facture #1314 datée du 25 décembre 2024 : **vente de véhicule camion 12 roues dompeur** International 5600 2003 (NIV: 1HTXHAXT13J072789) pour 32 500 $ HT (37 367 $ TTC). Le 5 000 $ Interac est un acompte payé par la compagnie. Le reste (32 367 $) a été payé par l'actionnaire de sa poche personnelle, ce qui constitue une avance de l'actionnaire à la compagnie.
+
+Ce montant n'est **PAS** une dépense courante. C'est un actif amortissable (classe 10, DPA incluse dans la section J ci-dessus).
 
 ### L. Logiciels et fournitures de bureau (GIFI 8811) — 3 059 $ HT
 
@@ -171,15 +177,14 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 | 9180 | Location d'équipement | 9 648 $ |
 | 8911 | Loyer (bureau à domicile 28%) | 7 056 $ |
 | 9225 | Télécommunications | 5 792 $ |
-| 8670 | Amortissement (DPA) | 5 100 $ |
-| 1740 | Achat équipement (Sanfaçon 12 roues) | 4 349 $ |
+| 8670 | Amortissement (DPA: Kubota 5 100 + Camion 4 875) | 9 975 $ |
 | 8811 | Logiciels et fournitures de bureau | 3 059 $ |
 | 9270 | Dôme 20x30 (Paul Martel) | 2 600 $ |
 | 9275 | Transport et livraison | 1 945 $ |
 | 8523 | Repas et représentation (50%) | 1 406 $ |
 | 9270 | Publicité et marketing | 894 $ |
-| **9659** | **Total des dépenses (incluant créance)** | **322 776 $** |
-| **9899** | **Bénéfice net avant impôt** | **137 648 $** |
+| **9659** | **Total des dépenses (incluant créance)** | **323 302 $** |
+| **9899** | **Bénéfice net avant impôt** | **137 122 $** |
 
 ---
 
@@ -187,11 +192,11 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 
 | Poste | Montant |
 |-------|--------:|
-| Bénéfice net avant impôt | 137 648 $ |
-| Impôt fédéral (9 % PME) | 12 388 $ |
-| Impôt Québec (3,2 % PME) | 4 405 $ |
-| **Impôt total estimé** | **16 793 $** |
-| **Bénéfice net après impôt** | **120 855 $** |
+| Bénéfice net avant impôt | 137 122 $ |
+| Impôt fédéral (9 % PME) | 12 341 $ |
+| Impôt Québec (3,2 % PME) | 4 388 $ |
+| **Impôt total estimé** | **16 729 $** |
+| **Bénéfice net après impôt** | **120 393 $** |
 
 ---
 
@@ -203,19 +208,19 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 |:---------:|-------------|--------:|
 | **ACTIF** | | |
 | 1001 | Encaisse (solde bancaire 31 déc 2025) | 1 988 $ |
-| 1301 | Prêt à l'actionnaire (voir section 6) | 41 204 $ |
-| 1740 | Machinerie et équipement (pelle Kubota) | 34 000 $ |
-| 1742 | Amortissement cumulé | -5 100 $ |
-| | **Total actif** | **72 092 $** |
+| 1301 | Prêt à l'actionnaire (voir section 6) | 8 837 $ |
+| 1740 | Pelle Kubota U-35 (coût 34 000) | 28 900 $ |
+| 1740 | Camion International 5600 (coût 32 500) | 27 625 $ |
+| | **Total actif** | **67 350 $** |
 | **PASSIF** | | |
-| 2620 | Impôt sur le revenu à payer | 16 793 $ |
+| 2620 | Impôt sur le revenu à payer | 16 729 $ |
 | 2680 | TPS/TVQ à payer (estimé) | 11 863 $ |
-| | **Total passif** | **28 656 $** |
+| | **Total passif** | **28 592 $** |
 | **AVOIR** | | |
 | 3500 | Capital-actions | 0 $ |
-| 3849 | Bénéfices non répartis (BNR) | 43 436 $ |
-| | **Total avoir** | **43 436 $** |
-| | **Total passif + avoir** | **72 092 $** |
+| 3849 | Bénéfices non répartis (BNR) | 38 758 $ |
+| | **Total avoir** | **38 758 $** |
+| | **Total passif + avoir** | **67 350 $** |
 
 ---
 
@@ -227,15 +232,18 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 | Loyer payé par la compagnie (5 mois x 2 100 $) | 10 500 $ |
 | **Total retiré de la compagnie** | **93 260 $** |
 | Portion bureau à domicile (28% x 25 200 $) | -7 056 $ |
-| **Retraits nets** | **86 204 $** |
+| Avance de l'actionnaire (camion Sanfaçon payé de sa poche) | -32 367 $ |
+| **Retraits nets** | **53 837 $** |
 | Dividendes non déterminés déclarés | -45 000 $ |
-| **Solde dû par l'actionnaire** | **41 204 $** |
+| **Solde dû par l'actionnaire** | **8 837 $** |
 
-Ce solde de 41 204 $ constitue un prêt de la compagnie à l'actionnaire. Il doit être remboursé avant le 31 décembre 2026 pour éviter l'inclusion dans le revenu personnel.
+Le solde de 8 837 $ est beaucoup plus bas qu'avant grâce à l'avance de 32 367 $ que l'actionnaire a faite pour payer le camion International 5600. Ce solde doit être remboursé avant le 31 décembre 2026 pour éviter l'inclusion dans le revenu personnel.
 
 ---
 
 ## 7. DPA — ANNEXE 8
+
+### Actif 1 : Pelle Kubota U-35 2016
 
 | Champ | Valeur |
 |-------|--------|
@@ -247,6 +255,21 @@ Ce solde de 41 204 $ constitue un prêt de la compagnie à l'actionnaire. Il doi
 | Règle de la demi-année | Oui (50 %) |
 | **DPA 2025** | **5 100 $** |
 | FNACC fin d'exercice | 28 900 $ |
+
+### Actif 2 : Camion International 5600 2003 (12 roues dompeur)
+
+| Champ | Valeur |
+|-------|--------|
+| Catégorie | 10 (30 %) |
+| Description | Camion International 5600 2003, NIV 1HTXHAXT13J072789 |
+| Coût d'acquisition | 32 500 $ HT (facture Sanfaçon #1314) |
+| FNACC début d'exercice | 0 $ (première année) |
+| Taux | 30 % |
+| Règle de la demi-année | Oui (50 %) |
+| **DPA 2025** | **4 875 $** |
+| FNACC fin d'exercice | 27 625 $ |
+
+### Total DPA 2025 : **9 975 $**
 
 ---
 
@@ -266,9 +289,10 @@ Ce solde de 41 204 $ constitue un prêt de la compagnie à l'actionnaire. Il doi
 |-------------|----------------:|--------------------:|------------:|-------------|
 | Revenus bruts HT | 460 647 $ | 536 828 $ | **460 424 $** | V2 incluait Flokon 2026 et vente pelle 2026 |
 | Créance Bellefeuille | 81 735 $ | non traitée | **81 734 $** | Confirmé dans QB: #1190 + #1191 |
-| Dépenses totales | 226 465 $ | 276 495 $ | **241 042 $** | Reclassement complet par catégorie |
+| Dépenses totales | 226 465 $ | 276 495 $ | **241 568 $** | Reclassement + Sanfaçon en actif + DPA |
 | Carburant | 80% | 80% | **100%** | Le gaz perso est payé en cash |
-| Bénéfice net | 152 236 $ | 260 333 $ | **137 648 $** | Résultat de toutes les corrections |
+| Sanfaçon | dépense courante | dépense courante | **actif (DPA)** | Achat camion 12 roues, facture #1314 confirmée |
+| Bénéfice net | 152 236 $ | 260 333 $ | **137 122 $** | Résultat de toutes les corrections |
 
 ---
 
