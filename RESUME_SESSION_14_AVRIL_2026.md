@@ -145,3 +145,21 @@ Détails du camion :
 | Excel Plan B | `/home/ubuntu/projects/rapport-dimpot-ea9d0d84/Compte_Slect_pour_entreprise_Plan_B_1117_041226 (1).xlsx` |
 | Excel QuickBooks | `/home/ubuntu/projects/rapport-dimpot-ea9d0d84/Terrassement National MS Inc. RBQ 5755-1202-01_Liste des factures par date.xlsx` |
 | Excel Flokon | `/home/ubuntu/projects/rapport-dimpot-ea9d0d84/flokon (1).xlsx` |
+
+---
+
+## À NE PAS OUBLIER — CTI/RTI MANQUANTS (~854 $)
+
+Les corrections faites cette session (carburant 100% au lieu de 80% + 3 factures Sanfaçon ajoutées) ont créé des crédits de taxes non réclamés dans les rapports TPS/TVQ déjà soumis.
+
+| Correction | CTI manquant (TPS) | RTI manquant (TVQ) |
+|------------|-------------------:|-------------------:|
+| Carburant 20% de plus | ~190 $ | ~379 $ |
+| 3 factures Sanfaçon (#1378, #1387, #1450) | ~95 $ | ~190 $ |
+| **Total** | **~285 $** | **~569 $** |
+
+**Comment récupérer :**
+- **Option recommandée :** Ajouter les CTI/RTI manquants dans la prochaine déclaration trimestrielle TPS/TVQ (avr-juin 2026). Tu as 4 ans pour les réclamer.
+- **Option alternative :** Demande de redressement via Mon dossier d'entreprise (ARC) ou Revenu Québec.
+
+**Rappel :** Le T2 corporatif n'est PAS affecté — il utilise les montants HT qui sont déjà corrects dans le tableau définitif.
