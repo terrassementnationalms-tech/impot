@@ -55,7 +55,7 @@ Achats de matériaux physiques (pavé, béton, balises, terre, quincaillerie, et
 | Matériaux PDV carte (Carrière Union, Canac, Home Depot, Centre Jardin, BLC Stone, Gestmar, Macpek) | Carte débit | 29 953 $ | 26 052 $ |
 | **Total matériaux** | | | **65 635 $** |
 
-### C. Location d'équipement (GIFI 9180) — 9 648 $ HT
+### C. Location d'équipement (GIFI 9180) — 9 873 $ HT
 
 Location de machinerie et d'outils pour les chantiers.
 
@@ -63,7 +63,8 @@ Location de machinerie et d'outils pour les chantiers.
 |-------------|--------|----:|---:|
 | Maintenance JCM (location loader) | Interac | 6 899 $ | 5 999 $ |
 | Pascal Équipement (location outils) | Interac | 4 194 $ | 3 648 $ |
-| **Total location** | | | **9 648 $** |
+| Excavation Sanfaçon #1450 (location pelle 1,7t) | Gmail/facture | 259 $ | 225 $ |
+| **Total location** | | | **9 873 $** |
 
 ### D. Frais de véhicules (GIFI 9281) — 68 013 $ HT
 
@@ -140,13 +141,15 @@ Ce montant n'est **PAS** une dépense courante. C'est un actif amortissable (cla
 
 Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entre particuliers). Utilisé comme abri pour l'équipement.
 
-### N. Transport et livraison (GIFI 9275) — 1 945 $ HT
+### N. Transport et livraison (GIFI 9275) — 3 622 $ HT
 
 | Fournisseur | Source | TTC | HT |
 |-------------|--------|----:|---:|
 | Transport BLG inc (transport terre) | Interac | 2 012 $ | 1 750 $ |
+| Excavation Sanfaçon #1387 (camion semi, 7 voyages, 1163 Calicot) | Gmail/facture | 1 304 $ | 1 134 $ |
+| Excavation Sanfaçon #1378 (camion semi, 3.25 voyages, 7451 Alyssés) | Gmail/facture | 624 $ | 543 $ |
 | Groupe Beneti (transport terre) | Interac | 224 $ | 195 $ |
-| **Total transport** | | | **1 945 $** |
+| **Total transport** | | | **3 622 $** |
 
 ### O. Repas et représentation 50% (GIFI 8523) — 1 406 $ HT
 
@@ -174,17 +177,17 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 | 9110 | Sous-traitance | 23 393 $ |
 | 8710 | Intérêts et frais bancaires | 19 169 $ |
 | 8690 | Assurances | 14 135 $ |
-| 9180 | Location d'équipement | 9 648 $ |
+| 9180 | Location d'équipement | 9 873 $ |
 | 8911 | Loyer (bureau à domicile 28%) | 7 056 $ |
 | 9225 | Télécommunications | 5 792 $ |
 | 8670 | Amortissement (DPA: Kubota 5 100 + Camion 4 875) | 9 975 $ |
 | 8811 | Logiciels et fournitures de bureau | 3 059 $ |
 | 9270 | Dôme 20x30 (Paul Martel) | 2 600 $ |
-| 9275 | Transport et livraison | 1 945 $ |
+| 9275 | Transport et livraison | 3 622 $ |
 | 8523 | Repas et représentation (50%) | 1 406 $ |
 | 9270 | Publicité et marketing | 894 $ |
-| **9659** | **Total des dépenses (incluant créance)** | **323 302 $** |
-| **9899** | **Bénéfice net avant impôt** | **137 122 $** |
+| **9659** | **Total des dépenses (incluant créance)** | **325 204 $** |
+| **9899** | **Bénéfice net avant impôt** | **135 220 $** |
 
 ---
 
@@ -192,11 +195,11 @@ Achat d'un dôme 20x30 sur Marketplace via Paul Martel. Pas de taxes (vente entr
 
 | Poste | Montant |
 |-------|--------:|
-| Bénéfice net avant impôt | 137 122 $ |
-| Impôt fédéral (9 % PME) | 12 341 $ |
-| Impôt Québec (3,2 % PME) | 4 388 $ |
-| **Impôt total estimé** | **16 729 $** |
-| **Bénéfice net après impôt** | **120 393 $** |
+| Bénéfice net avant impôt | 135 220 $ |
+| Impôt fédéral (9 % PME) | 12 170 $ |
+| Impôt Québec (3,2 % PME) | 4 327 $ |
+| **Impôt total estimé** | **16 497 $** |
+| **Bénéfice net après impôt** | **118 723 $** |
 
 ---
 
