@@ -34,8 +34,8 @@
 | Type de revenu | **Dividendes non déterminés (T5)** |
 | Revenu de dividendes 2025 | **53 837 $** |
 | Dividendes majorés (ligne 12000) | **61 913 $** |
-| Historique de revenus | 1 an (première année de revenus actifs) |
-| Société | Terrassement National MS Inc. (Incorporée en **2017**, 9 ans d'existence) |
+| Historique de revenus | Société active depuis 2017 |
+| Société | Terrassement National MS Inc. (Incorporée en **2017**) |
 | Revenus de la société (2025) | 460 424 $ |
 | Bénéfice net de la société (2025) | 135 220 $ |
 | Cote de crédit | **~700** |
