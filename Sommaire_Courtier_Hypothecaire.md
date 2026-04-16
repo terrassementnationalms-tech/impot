@@ -52,16 +52,6 @@ em { font-size: 10px; }
 
 ---
 
-## Sommaire des Revenus Familiaux
-
-| Source | Annuel |
-|---|---:|
-| Laura — Emploi (T4) | 44 983 $ |
-| Mantallah — Dividendes (T5) | 53 837 $ |
-| **Total revenu familial** | **98 820 $** |
-
----
-
 ## Documents Disponibles sur Demande
 
 Avis de cotisation fédéral et Québec 2025 (à venir) — Feuillet T5 (dividendes 2025) — Relevé 1 / T4 de Laura — États financiers de Terrassement National MS Inc. — Déclaration T2 (2025) — Relevés de compte bancaire (mise de fonds)
