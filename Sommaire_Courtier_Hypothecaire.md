@@ -9,9 +9,9 @@
 | Information | Détail |
 |---|---|
 | Statut | Conjoints de fait |
-| Enfants | 2 enfants de moins de 6 ans |
-| Enfant 1 | Hayden Savard (né en 2021) |
-| Enfant 2 | Sofia Savard (née en 2023) |
+| Enfants | 2 enfants à charge |
+| Enfant 1 | Né le 3 novembre 2017 (8 ans) |
+| Enfant 2 | Né le 5 mai 2020 (5 ans) |
 
 ---
 
@@ -34,10 +34,11 @@
 | Type de revenu | **Dividendes non déterminés (T5)** |
 | Revenu de dividendes 2025 | **53 837 $** |
 | Dividendes majorés (ligne 12000) | **61 913 $** |
-| Historique de revenus | 1 an (première année d'activité de la société) |
-| Société | Terrassement National MS Inc. |
+| Historique de revenus | 1 an (première année de revenus actifs) |
+| Société | Terrassement National MS Inc. (Incorporée en **2017**, 9 ans d'existence) |
 | Revenus de la société (2025) | 460 424 $ |
 | Bénéfice net de la société (2025) | 135 220 $ |
+| Cote de crédit | **~700** |
 
 ---
 
@@ -45,9 +46,9 @@
 
 | Allocation | Montant annuel estimé | Montant mensuel |
 |---|---:|---:|
-| Allocation canadienne pour enfants (ACE) | ~11 341 $ | ~945 $ |
-| Allocation famille Québec (Soutien aux enfants) | ~3 500 $ | ~292 $ |
-| **Total allocations** | **~14 841 $** | **~1 237 $** |
+| Allocation canadienne pour enfants (ACE) | ~7 023 $ | ~585 $ |
+| Allocation famille Québec (Soutien aux enfants) | ~615 $ | ~51 $ |
+| **Total allocations** | **~7 638 $** | **~636 $** |
 
 ---
 
@@ -57,8 +58,8 @@
 |---|---:|
 | Laura — Emploi (T4) | 44 983 $ |
 | Mantallah — Dividendes (T5) | 53 837 $ |
-| Allocations familiales | ~14 841 $ |
-| **Total revenu familial** | **~113 661 $** |
+| Allocations familiales | ~7 638 $ |
+| **Total revenu familial** | **~106 458 $** |
 
 ---
 
