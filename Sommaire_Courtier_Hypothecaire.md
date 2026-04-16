@@ -42,24 +42,13 @@
 
 ---
 
-## Allocations Familiales (Revenus Additionnels)
-
-| Allocation | Montant annuel estimé | Montant mensuel |
-|---|---:|---:|
-| Allocation canadienne pour enfants (ACE) | ~7 023 $ | ~585 $ |
-| Allocation famille Québec (Soutien aux enfants) | ~615 $ | ~51 $ |
-| **Total allocations** | **~7 638 $** | **~636 $** |
-
----
-
 ## Sommaire des Revenus Familiaux
 
 | Source | Annuel |
 |---|---:|
 | Laura — Emploi (T4) | 44 983 $ |
 | Mantallah — Dividendes (T5) | 53 837 $ |
-| Allocations familiales | ~7 638 $ |
-| **Total revenu familial** | **~106 458 $** |
+| **Total revenu familial** | **98 820 $** |
 
 ---
 
@@ -71,7 +60,6 @@
 - États financiers de Terrassement National MS Inc.
 - Déclaration T2 de la société (2025)
 - Relevés de compte bancaire (mise de fonds)
-- Preuve des allocations familiales (ACE + Québec)
 
 ---
 
