@@ -35,7 +35,7 @@ em { font-size: 10px; }
 | Type de revenu | **Emploi salarié (T4)** |
 | Revenu brut annuel 2025 | **44 983 $** |
 | Historique de revenus | 2-3 ans de T4 stables |
-| Cote de crédit | **Excellente** |
+| Cote de crédit | **800+** |
 | Mise de fonds | Disponible dans son compte depuis plus de 3 mois |
 
 ## Emprunteur 2 — Mantallah-Moustapha Savard
