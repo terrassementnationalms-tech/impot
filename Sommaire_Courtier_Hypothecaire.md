@@ -31,6 +31,7 @@ em { font-size: 10px; }
 
 | Information | Détail |
 |---|---|
+| Date de naissance | **25 mars 1998** |
 | Type de revenu | **Emploi salarié (T4)** |
 | Revenu brut annuel 2025 | **44 983 $** |
 | Historique de revenus | 2-3 ans de T4 stables |
@@ -41,6 +42,7 @@ em { font-size: 10px; }
 
 | Information | Détail |
 |---|---|
+| Date de naissance | **26 novembre 1994** |
 | Type de revenu | **Dividendes non déterminés (T5)** |
 | Revenu de dividendes 2025 | **53 837 $** |
 | Dividendes majorés (ligne 12000) | **61 913 $** |
